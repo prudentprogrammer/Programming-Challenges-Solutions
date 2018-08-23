@@ -4,8 +4,10 @@ n = int(input())
 nums = Counter(list(map(int, input().split())))
 queries = int(input())
 
-print(nums)
-
 for _ in range(queries):
-  pass
+  guess = int(input())
+  if guess in nums:
+    print(nums[guess])
+  else:
+    print('NOT PRESENT')
 
