@@ -8,7 +8,7 @@ def printScoresGreaterThanRightSide(scores):
         flag = False
         break
     
-    if flag or i == len(scores) - 1:
+    if flag:
       print(scores[i], end=" ")
 
 totalStudents = int(input())
