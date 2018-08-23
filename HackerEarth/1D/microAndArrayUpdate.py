@@ -1,5 +1,7 @@
 # Link:https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/micro-and-array-update/
 
+# This solution times out.
+# Actually updates the array.
 def updateArrayTLE(nums, k):
   count = 0
   while True:
@@ -14,6 +16,7 @@ def updateArrayTLE(nums, k):
     count += 1
   return count
 
+# Uses Math to calculate the actual point where it exceeds k.
 def updateArray(nums, k):
   minValue = min(nums)
   times = max(0, k - minValue)
