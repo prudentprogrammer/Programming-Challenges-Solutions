@@ -7,6 +7,7 @@ for counter in range(1, int(input()) + 1):
   for call in callDurations:
     totalMiles += (call // 30) * 10 + 10
     totalJuices += (call // 60) * 15 + 15
+
   if totalMiles < totalJuices:
     print('Case {}: Mile {}'.format(counter, totalMiles))
   elif totalJuices < totalMiles:
