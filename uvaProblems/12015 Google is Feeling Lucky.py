@@ -10,7 +10,7 @@ for counter in range(1, int(input()) + 1):
     webpage, relevance = input().split()
     relevance = int(relevance)
     webpagesMap[relevance].append(webpage)
-    mostRelevantWebpage = max(mostRelevantWebpage, int(relevance))
+    mostRelevantWebpage = max(mostRelevantWebpage, relevance)
 
   print('Case #{}:'.format(counter))
   for webpage in webpagesMap[mostRelevantWebpage]:
