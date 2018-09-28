@@ -11,7 +11,7 @@ while True:
       currLine = input().split()
       giver, amount, totalReceivers, receivers = currLine[0], int(currLine[1]), int(currLine[2]), currLine[3:]
 
-      if amount != 0:
+      if amount > 0 and totalReceivers > 0:
         for receiver in receivers:
           friends[receiver] += (amount // totalReceivers)
         friends[giver] += ( -amount + (amount % totalReceivers) )
