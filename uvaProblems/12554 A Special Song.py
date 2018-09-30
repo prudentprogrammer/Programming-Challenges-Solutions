@@ -1,8 +1,6 @@
 # Link: https://uva.onlinejudge.org/external/125/12554.pdf
 
-happyBirthdayLine =  ['Happy', 'birthday', 'to', 'you'] * 2
-happyBirthdayLine += ['Happy', 'birthday', 'to', 'Rujia']
-happyBirthdayLine += ['Happy', 'birthday', 'to', 'you']
+happyBirthdayLine = 'Happy birthday to you Happy birthday to you Happy birthday to Rujia Happy birthday to you'.split()
 
 names, timesSaid = [], []
 testCases = int(input())
@@ -17,8 +15,5 @@ while True:
     timesSaid[nameIndex] += 1
     nameIndex = (nameIndex + 1) % len(names)
 
-  if not any(x == 0 for x in timesSaid):
+  if all(x >= 1 for x in timesSaid):
     break
-
-
-  
