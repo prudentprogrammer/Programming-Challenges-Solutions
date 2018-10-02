@@ -18,4 +18,3 @@ for word in sorted(res):
   curWords = anagramMap[''.join(sorted(word.lower()))]
   if len(curWords) == 1:
     print(curWords[0])
-
