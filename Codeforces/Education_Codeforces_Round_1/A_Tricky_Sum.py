@@ -1,9 +1,5 @@
-
-
 # Construct a table representing powers of two
-table = [0] * 32
-for i in range(32):
-  table[i] = 1 << i
+table = [1 << i for i in range(32)]
 
 testCases = int(input())
 for _ in range(testCases):

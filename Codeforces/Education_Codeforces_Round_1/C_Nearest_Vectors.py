@@ -8,7 +8,9 @@ for i in range(int(input())):
 vectors.sort()
 min_diff = float('+inf')
 first_ind = second_ind = -1
+
 print(vectors)
+
 # The key here is to compare the difference between ith
 # and i + 1-th vector and take the minimum. We should also
 # take the difference between the last vector and the very first one
