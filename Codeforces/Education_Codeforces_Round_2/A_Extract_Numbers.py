@@ -1,5 +1,5 @@
 
-def handleNumericChunk(chunk, A, B):
+def handle_numeric_chunks(chunk, A, B):
     if not chunk:
         B.append(chunk)
     elif chunk[0] == '0':
@@ -15,21 +15,21 @@ def handleNumericChunk(chunk, A, B):
     return A, B
 
 
-def extractNumbers(s):
+def extract_numbers(s):
     A = []
     B = []
     chunk = ''
     for i, letter in enumerate(s):
         if letter in ',;':
-            A, B = handleNumericChunk(chunk, A, B)
+            A, B = handle_numeric_chunks(chunk, A, B)
             chunk = ''
         else:
             chunk += letter
 
-    A, B = handleNumericChunk(chunk, A, B)
+    A, B = handle_numeric_chunks(chunk, A, B)
     return A, B 
 
-def formatOutput(l):
+def format_output(l):
     if not l:
         return "-"
     else:
@@ -41,6 +41,6 @@ def formatOutput(l):
         return ''.join(temp)
 
 s = input()
-A, B = extractNumbers(s)
-print(formatOutput(A))
-print(formatOutput(B))
+A, B = extract_numbers(s)
+print(format_output(A))
+print(format_output(B))
