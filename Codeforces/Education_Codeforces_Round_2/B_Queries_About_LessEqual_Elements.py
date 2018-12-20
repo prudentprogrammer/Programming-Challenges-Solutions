@@ -12,9 +12,7 @@ def less_than_or_equal(x, y):
             res.append(ind)
             queries[num] = ind
     
-    #print(res)
     return ' '.join(str(x) for x in res)
-
 
 _ = input()
 x = [int(x) for x in input().split()]
