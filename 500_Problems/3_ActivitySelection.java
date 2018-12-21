@@ -1,7 +1,6 @@
 import java.util.*;
 
 class Interval {
-  
   int start;
   int end;
   
@@ -14,12 +13,9 @@ class Interval {
   public String toString() {
     return "(" + start + "," + end + ")";
   } // End of toString
-
 } // End of interval
 
-
 class ActivitySimulation {
-
 
   // Private method
   private static List<Interval> selectActivities(List<Interval> intervals) {
@@ -36,20 +32,16 @@ class ActivitySimulation {
     return result;
   }
 
-
   public static void main (String[] args) {
     ActivitySimulation a = new ActivitySimulation();
-
-    List<Interval> intervals = new ArrayList<Interval>(Arrays.asList(
+    List<Interval> intervals = Arrays.asList(
       new Interval(3, 5),
       new Interval(1, 4),
       new Interval(2, 3),
       new Interval(5, 7)
-    ));
+    );
 
     Collections.sort(intervals, (f, o) -> f.end - o.end);
     System.out.println(a.selectActivities(intervals));
-
   } // End of main
-
 } // End of ActivitySimulation
