@@ -1,20 +1,18 @@
 import collections
-anagramMap = collections.defaultdict(list)
+
+anagramMap = None
 res = [] # To remember the ordering in the original file
 
 for _ in range(int(input())):
-  while True:
-    currLine = input()
-    if currLine == '#':
-      break
+  currLine = input()
+  if currLine == '':
+    # Reset the map
+    anagramMap = collections.defaultdict(list)
 
-    allWords = ''.join(currLine.split(' '))
-    res.append(currLine) # Store the words to remember the ordering
-    curWord = ''.join(sorted(allWords))
-    anagramMap[curWord].append(allWords)
+  allWords = ''.join(currLine.split(' '))
+  res.append(currLine) # Store the words to remember the ordering
+  anagramMap[''.join(sorted(allWords))].append(allWords)
 
-print(res)
-# for word in sorted(res):
-#   curWords = anagramMap[''.join(sorted(word.lower()))]
-#   if len(curWords) == 1:
-#     print(curWords[0])
+for word in res:
+  print(''.join(sorted(''.join(word.split(' ')))))
+  print(anagramMap[''.join(sorted(''.join(word.split(' '))))])
