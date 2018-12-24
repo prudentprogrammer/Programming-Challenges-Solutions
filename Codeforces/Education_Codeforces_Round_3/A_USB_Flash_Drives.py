@@ -1,7 +1,6 @@
 import sys
 
 def find_minimum_number_of_flash_drives(storage_sizes, filesize):
-    n = len(storage_sizes)
     storage_sizes.sort(reverse=True)
     counter = 0
     for size in storage_sizes:
@@ -9,10 +8,7 @@ def find_minimum_number_of_flash_drives(storage_sizes, filesize):
         counter += 1
         if filesize <= 0:
             break
-
     return counter
-
-
 
 number_of_flash_drives = int(sys.stdin.readline().strip())
 filesize = int(sys.stdin.readline().strip())
