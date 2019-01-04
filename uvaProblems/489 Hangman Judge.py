@@ -1,14 +1,20 @@
-
 def printStatus(actual_word, guessed_letters):
-    actual_word_diff = len(set(actual_word) - set(guessed_letters))
-    guessed_letters_diff = len(set(guessed_letters) - set(actual_word))
+    correct_set = set(actual_word)
+    so_far = set()
+    wrong_set = set()
 
-    if actual_word_diff == 0 and guessed_letters_diff < 7:
-        print('You win.')
-    elif guessed_letters_diff >= 7:
-        print('You lose.')
-    else:
-        print('You chickened out.')
+    for letter in guessed_letters:
+        if letter in correct_set:
+            so_far.add(letter)
+            if so_far == correct_set:
+                print('You win.')
+                return
+        else:
+            wrong_set.add(letter)
+            if len(wrong_set) >= 7:
+                print('You lose.')
+                return
+    print('You chickened out.')
 
 while True:
     roundNumber = int(input())
