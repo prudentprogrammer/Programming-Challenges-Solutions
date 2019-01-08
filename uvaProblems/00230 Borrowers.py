@@ -1,4 +1,4 @@
-#import pprint
+# Link: https://uva.onlinejudge.org/external/2/230.pdf
 
 class Book:
     def __init__(self, title, author):
@@ -13,7 +13,7 @@ class Book:
                                         self.returned,
                                         self.borrowed)
 
-def printQueries(queries, books):
+def processQueries(queries, books):
     for query in queries:
         currLine = query.split(" ", 1)
         cmd, bookName = currLine[0], currLine[-1][1:-1]
@@ -67,4 +67,4 @@ if __name__ == "__main__":
         if query == "END": break
         queries.append(query)
 
-    printQueries(queries, books)
+    processQueries(queries, books)
