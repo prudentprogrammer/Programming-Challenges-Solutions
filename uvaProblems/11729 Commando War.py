@@ -7,7 +7,7 @@ def get_minimum_time(soldiers):
         res = max(res, total_brief_times + execution_time)
     return res
 
-counter = 0
+counter = 1
 while True:
     test_cases = input()
     if test_cases == "0":
@@ -19,5 +19,5 @@ while True:
         soldiers.append((brief_time, execution_time))
 
     soldiers.sort(key=lambda x: -x[1]) # Sort by descending time of execution time.
-    print('Case {}: {}'.format(counter + 1, get_minimum_time(soldiers)))
+    print('Case {}: {}'.format(counter, get_minimum_time(soldiers)))
     counter += 1
