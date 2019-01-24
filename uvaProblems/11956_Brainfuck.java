@@ -1,11 +1,9 @@
 import java.io.*;
 import java.util.*;
-import java.util.stream.*;
 
 class Main {
     public static void main (String[] args) {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-        Main m = new Main();
         
         while(true) {
             try {
