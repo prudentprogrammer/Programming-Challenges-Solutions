@@ -1,3 +1,4 @@
+# Link: https://uva.onlinejudge.org/external/4/401.pdf
 
 mirrorMap = {
     'A' : 'A',
@@ -9,6 +10,7 @@ mirrorMap = {
     'M' : 'M',
     'O' : 'O',
     'S' : '2',
+    'T' : 'T',
     'U' : 'U',
     'V' : 'V',
     'W' : 'W',
@@ -30,22 +32,26 @@ def print_status(curr_line):
     while start <= end:
         mirrored_start_char = mirrorMap.get(curr_line[start], '')
         mirrored_end_char   = mirrorMap.get(curr_line[end], '')
-        #print(mirrored_start_char, curr_line[start])
+       
         if not (mirrored_start_char == curr_line[end] and mirrored_end_char == curr_line[start]):
             is_mirrored = False
+            break
         start += 1
         end -= 1
+    
+    if start > end:
+        is_mirrored = True
     
     if not is_palindrome and not is_mirrored: print('{} -- is not a palindrome.'.format(curr_line))
     elif is_palindrome and not is_mirrored: print('{} -- is a regular palindrome.'.format(curr_line))
     elif not is_palindrome and is_mirrored: print('{} -- is a mirrored string.'.format(curr_line))
     elif is_palindrome and is_mirrored: print('{} -- is a mirrored palindrome.'.format(curr_line))
-
+    print() # Print new line as per the output specifications.
+    
 while True:
     try:
         curr_line = input()
         print_status(curr_line)
     except EOFError:
         break # End of input
-
 
