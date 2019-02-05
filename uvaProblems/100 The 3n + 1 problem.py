@@ -1,34 +1,26 @@
 # Link: https://uva.onlinejudge.org/external/1/100.pdf
 
-from sys import stdin
+# Works but unfortunately TLE :(
+# Please look at the Java solution instead.
 
-arrayMemo = [0] * 999999
+def calculate(start, end):
+    start, end = min(start, end), max(start, end)
+    
+    def compute_cycle(n):
+        count = 1
+        while n != 1:
+            if n % 2 != 0:
+                n = 3 * n + 1
+            else:
+                n = n // 2
+            count += 1
+        return count
+    
+    return max(compute_cycle(x) for x in range(start, end+1))
 
-def collatz(n):
-  if arrayMemo[n] != 0:
-    return arrayMemo[n]
-
-  if n == 1:
-    return 1
-  else:
-    cycleLength = 0
-    if n % 2 != 0:
-      cycleLength = 1 + collatz(3 * n + 1)
-    else:
-      cycleLength = 1 + collatz(n // 2)
-
-    arrayMemo[n] = cycleLength
-    return cycleLength
-
-
-for line in ['99 9999']:
-  start, end = [int(x) for x in line.split()]
-
-  maxCycleLength = 0
-  for n in range(min(start, end), max(start, end)+1):
+while True:
     try:
-      maxCycleLength = max(maxCycleLength, collatz(n))
-    except:
-      print('ERRRO ON ', n)
-
-  print('{} {} {}'.format(start, end, maxCycleLength))
+        start, end = [int(x) for x in input().split()]
+        print('{} {} {}'.format(start, end, calculate(start, end)))
+    except EOFError:
+        break # End of input
