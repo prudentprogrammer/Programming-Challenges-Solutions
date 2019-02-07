@@ -1,5 +1,6 @@
 # Link: https://uva.onlinejudge.org/external/9/902.pdf
 # NOTE: Passes test cases but runtime error on UvA judge. :(
+# Please reference the Java Code as it is Accepted (AC).
 from collections import Counter
 
 def get_high_frequency_substring(N, curr_line):
