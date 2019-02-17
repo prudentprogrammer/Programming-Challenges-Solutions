@@ -1,6 +1,6 @@
 *.txt
-*/.DS_Store
-*/.vscode
-*/.swp
-*/.class
-*/.idea
+*.DS_Store
+*.vscode
+*.swp
+*.class
+*.idea
