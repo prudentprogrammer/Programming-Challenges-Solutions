@@ -5,6 +5,4 @@ for unit in [3600, 60, 1]:
   res.append(str(count))
   if count > 0:
     sec = sec % unit
-
 print(':'.join(res))
-
