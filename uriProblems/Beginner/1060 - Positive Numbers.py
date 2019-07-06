@@ -1,2 +1,2 @@
-info = [int(x) for x in input().split()]
-print(info)
+count = [float(input()) > 0 for _ in range(6)].count(True)
+print('{} valores positivos'.format(count))

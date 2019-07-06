@@ -1,2 +1,2 @@
-info = [int(x) for x in input().split()]
-print(info)
+for i in range(2, 101, 2):
+  print(i)

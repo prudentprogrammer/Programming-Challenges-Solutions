@@ -1,2 +1,14 @@
-info = [int(x) for x in input().split()]
-print(info)
+print([
+  '',
+  'January', 
+  'February', 
+  'March', 
+  'April', 
+  'May', 
+  'June', 
+  'July', 
+  'August', 
+  'September', 
+  'October', 
+  'November', 
+  'December'][int(input())])
