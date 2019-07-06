@@ -1,0 +1,3891 @@
+(dp0
+S'Computational Geometry'
+p1
+(lp2
+V1039 - Fire Flowers.py
+p3
+aV1102 - Deadly Atack.py
+p4
+aV1108 - Towers for Mobile Telephony.py
+p5
+aV1124 - Elevator.py
+p6
+aV1126 - Star War.py
+p7
+aV1137 - Cocircular Points.py
+p8
+aV1204 - Myachowski, Russian Football.py
+p9
+aV1223 - Toboggan of Marbles.py
+p10
+aV1268 - Mission Impossible.py
+p11
+aV1291 - Is This Integration?.py
+p12
+aV1292 - Trouble with a Pentagon.py
+p13
+aV1293 - Romeo & Juliet!.py
+p14
+aV1294 - The Largest and Smallest Box.py
+p15
+aV1295 - The Closest Pair Problem.py
+p16
+aV1296 - Medians.py
+p17
+aV1315 - Not too Convex Hull.py
+p18
+aV1336 - Garden Fence.py
+p19
+aV1345 - Secure Region.py
+p20
+aV1358 - Cutting Edge.py
+p21
+aV1370 - Regatta of Scientists.py
+p22
+aV1411 - Shrinking Polygons.py
+p23
+aV1446 - Venn Diagram?.py
+p24
+aV1455 - ICPC Finals.py
+p25
+aV1464 - Onion Layers.py
+p26
+aV1468 - Balloon.py
+p27
+aV1497 - Hide and Seek.py
+p28
+aV1504 - Curo Railroad.py
+p29
+aV1549 - Splitting the Coke.py
+p30
+aV1560 - Triangle Energy.py
+p31
+aV1571 - A Square & Equilateral Triangles.py
+p32
+aV1613 - Goemon is in Trouble.py
+p33
+aV1631 - Bobby's Amazing Cake.py
+p34
+aV1646 - Forest.py
+p35
+aV1651 - Cylinder.py
+p36
+aV1665 - Decorate the Wall.py
+p37
+aV1679 - Drink, on Ice.py
+p38
+aV1693 - Just Another Physics Problem.py
+p39
+aV1721 - Equidistance.py
+p40
+aV1730 - Global Roaming.py
+p41
+aV1748 - Fence The Vegetables.py
+p42
+aV1783 - Oh no, a Black Hole!.py
+p43
+aV1797 - Blasted and Curious.py
+p44
+aV1818 - Convention Center.py
+p45
+aV1825 - Anting.py
+p46
+aV1834 - Vogons!.py
+p47
+aV1844 - The Deathly Hallows.py
+p48
+aV1857 - Prelude of a Red Wedding.py
+p49
+aV1875 - Tribol.py
+p50
+aV1938 - Rectangle Park.py
+p51
+aV1971 - Insurrection.py
+p52
+aV1982 - New Computers.py
+p53
+aV1991 - Factory of Bridges.py
+p54
+aV2043 - High Mountains.py
+p55
+aV2045 - Defending Alamo.py
+p56
+aV2083 - On The Side Of The Road.py
+p57
+aV2094 - Flowers of Babylon.py
+p58
+aV2104 - Lasers.py
+p59
+aV2158 - Helping Uncle Cláudio.py
+p60
+aV2245 - Shrinking Polygons Kit.py
+p61
+aV2362 - Alien Invasion.py
+p62
+aV2517 - PoGro Challenge.py
+p63
+aV2518 - FNDI's Staircase.py
+p64
+aV2521 - Ask the Geographer.py
+p65
+aV2525 - Traveling Cacher.py
+p66
+aV2541 - Ingrest.py
+p67
+aV2561 - Treasure.py
+p68
+aV2665 - Hipercampo.py
+p69
+aV2773 - Shortest Path.py
+p70
+aV2840 - Balloon++.py
+p71
+aV2891 - A Problem With A Happy Ending.py
+p72
+asS'Data Structures And Libraries'
+p73
+(lp74
+V1022 - TDA Rational.py
+p75
+aV1025 - Where is the Marble?.py
+p76
+aV1062 - Rails.py
+p77
+aV1063 - Rails Again... Tracing Movements.py
+p78
+aV1068 - Parenthesis Balance I.py
+p79
+aV1069 - Diamonds and Sand.py
+p80
+aV1077 - Infix to Posfix.py
+p81
+aV1083 - LEXSIM - Sintatic and Lexical Avaliator.py
+p82
+aV1088 - Bubbles and Buckets.py
+p83
+aV1110 - Throwing Cards Away.py
+p84
+aV1112 - Schweisen.py
+p85
+aV1119 - The Dole Queue.py
+p86
+aV1162 - Train Swapping.py
+p87
+aV1167 - Summer Camp.py
+p88
+aV1211 - Economic Phonebook.py
+p89
+aV1215 - Andy's First Dictionary.py
+p90
+aV1236 - Compressing Null and White.py
+p91
+aV1242 - Alien Ribonucleic Acid.py
+p92
+aV1244 - Sort by Length.py
+p93
+aV1251 - Tell me the Frequencies!.py
+p94
+aV1252 - Sort! Sort!! And Sort!!!.py
+p95
+aV1256 - Hash Tables.py
+p96
+aV1258 - T-Shirts.py
+p97
+aV1259 - Even and Odd.py
+p98
+aV1260 - Hardwood Species.py
+p99
+aV1261 - Hay Points.py
+p100
+aV1274 - P-Networks.py
+p101
+aV1281 - Going to the Market.py
+p102
+aV1301 - Interval Product.py
+p103
+aV1303 - Spurs Rocks.py
+p104
+aV1326 - Chemistry.py
+p105
+aV1340 - I Can Guess the Data Structure!.py
+p106
+aV1356 - Jupiter Attacks!.py
+p107
+aV1382 - Elementary, my Dear Watson!.py
+p108
+aV1388 - Where Are The Bubbles?.py
+p109
+aV1401 - Generating Fast, Sorted Permutation.py
+p110
+aV1405 - The Halting Problem.py
+p111
+aV1424 - Easy Problem from Rujia Liu?.py
+p112
+aV1425 - Gift?!.py
+p113
+aV1430 - Jingle Composing.py
+p114
+aV1439 - Bora Bora.py
+p115
+aV1449 - The Fantastic Jaspion.py
+p116
+aV1451 - Broken Keyboard.py
+p117
+aV1452 - Gloud Computing.py
+p118
+aV1477 - Man, Elephant and Mouse.py
+p119
+aV1500 - Horrible Queries.py
+p120
+aV1507 - Subsequences.py
+p121
+aV1511 - GCD Grid.py
+p122
+aV1520 - Screws and Nuts.py
+p123
+aV1523 - Linear Parking Lot.py
+p124
+aV1527 - Guilds.py
+p125
+aV1535 - Couple-Bachelor-Spinster Numbers.py
+p126
+aV1538 - Alien Sequence.py
+p127
+aV1548 - Canteen Queue.py
+p128
+aV1566 - Height.py
+p129
+aV1587 - BIT Park.py
+p130
+aV1594 - Greedy.py
+p131
+aV1633 - SBC.py
+p132
+aV1640 - Hotel Booking.py
+p133
+aV1673 - Run Length Encoding.py
+p134
+aV1683 - Largest Rectangle in a Histogram.py
+p135
+aV1696 - Playing With Operators.py
+p136
+aV1701 - Fibos's Sequence.py
+p137
+aV1704 - Arranging Tasks.py
+p138
+aV1709 - Shuffled Deck.py
+p139
+aV1725 - Quadtree II.py
+p140
+aV1740 - Is it Ordered?.py
+p141
+aV1746 - Dividing the Names.py
+p142
+aV1762 - Sleds of Santa Claus.py
+p143
+aV1763 - Santa's Translator.py
+p144
+aV1766 - The Dark Elf.py
+p145
+aV1804 - Mathematicians Needed in Mars.py
+p146
+aV1851 - How To Train Your Dragon.py
+p147
+aV1854 - Winter in Winterfell.py
+p148
+aV1856 - Arya's Death List.py
+p149
+aV1861 - Hall of Murderers.py
+p150
+aV1863 - Ramsay's Counter-attack.py
+p151
+aV1874 - Pushing Blocks.py
+p152
+aV1897 - Smart Game.py
+p153
+aV1911 - Help Girafales.py
+p154
+aV1944 - FACE 2015 FREE GIFT.py
+p155
+aV2018 - Christmas Olympics.py
+p156
+aV2020 - Elves and Their Codes.py
+p157
+aV2022 - Christmas Gifts.py
+p158
+aV2047 - Fly By Night.py
+p159
+aV2064 - Prant and the Indecision.py
+p160
+aV2065 - Supermarket Line.py
+p161
+aV2067 - The Square Game.py
+p162
+aV2071 - Pharaoh's Bank.py
+p163
+aV2074 - Varied Dishes From the Beautiful Nefertiti.py
+p164
+aV2075 - Zé Coquinho.py
+p165
+aV2077 - Los buses de Cartagena.py
+p166
+aV2091 - Lonely Number.py
+p167
+aV2092 - Watching the Game.py
+p168
+aV2110 - Sun Bath in The Garden.py
+p169
+aV2111 - Understanding Sorobov.py
+p170
+aV2120 - Tutors.py
+p171
+aV2122 - Voting at Yekaterinburg.py
+p172
+aV2136 - Friends of Habay.py
+p173
+aV2185 - Playing with Pomekons.py
+p174
+aV2186 - Bino, Prant and Indecision.py
+p175
+aV2223 - Pomekon Catalog.py
+p176
+aV2239 - Hex Statistics.py
+p177
+aV2240 - Merging Trees.py
+p178
+aV2241 - Go--.py
+p179
+aV2290 - Apaixornados Numbers.py
+p180
+aV2482 - Noel's Labels.py
+p181
+aV2488 - É Na Batida do Cavalo!.py
+p182
+aV2492 - Ilhas Isoladas.py
+p183
+aV2495 - Where is my Pen?.py
+p184
+aV2496 - The Only Chance.py
+p185
+aV2503 - Regularity Race.py
+p186
+aV2506 - Medical Clinic Queue.py
+p187
+aV2519 - Winning Strategy.py
+p188
+aV2526 - Menu.py
+p189
+aV2531 - Shopping in FdI.py
+p190
+aV2537 - GigaDrive.py
+p191
+aV2538 - Gym.py
+p192
+aV2546 - Allowance.py
+p193
+aV2559 - Friday The 13th.py
+p194
+aV2560 - Aquatic Surf.py
+p195
+aV2593 - Eachians I.py
+p196
+aV2594 - Eachians II.py
+p197
+aV2655 - Dangerous Trail.py
+p198
+aV2656 - Rhombus.py
+p199
+aV2658 - Acordes Intergaláticos.py
+p200
+aV2671 - Decoding the Text.py
+p201
+aV2729 - Shopping List.py
+p202
+aV2734 - Trading Presents.py
+p203
+aV2800 - Playing with Queries.py
+p204
+aV2805 - Binarizing the Matrix.py
+p205
+aV2821 - Cards Distribution.py
+p206
+aV2848 - Rangel and the Array Game I.py
+p207
+aV2849 - Rangel and the Array Game II.py
+p208
+aV2857 - SpeedWagon Flow.py
+p209
+aV2860 - Peace in Spar-Ta.py
+p210
+aV2872 - TCP/IP Protocol.py
+p211
+aV2889 - Tasco Is Always Runner-up!.py
+p212
+aV2893 - Fibonac^{k}i.py
+p213
+aV2916 - The Note.py
+p214
+aV2929 - Smallest on the Stack.py
+p215
+asS'Paradigms'
+p216
+(lp217
+V1027 - Critical Wave.py
+p218
+aV1029 - Fibonacci, How Many Calls?.py
+p219
+aV1033 - How Many Calls?.py
+p220
+aV1034 - Ice Statues Festival.py
+p221
+aV1054 - Dynamic Frog.py
+p222
+aV1055 - Elegant Permuted Sum.py
+p223
+aV1058 - Independent Attacking Zones.py
+p224
+aV1084 - Erasing and Winning.py
+p225
+aV1106 - Dragster.py
+p226
+aV1166 - Hanoi Tower Troubles Again!.py
+p227
+aV1203 - St. Petersburg Bridges.py
+p228
+aV1210 - Optimal Production of Great Vodka.py
+p229
+aV1224 - Cards.py
+p230
+aV1226 - Space Elevator.py
+p231
+aV1229 - Combating Cancer.py
+p232
+aV1231 - Words.py
+p233
+aV1265 - Computer DJ.py
+p234
+aV1269 - ICPC Strikes Again.py
+p235
+aV1282 - Arranging Heaps.py
+p236
+aV1283 - Boxes and Stones.py
+p237
+aV1286 - Motoboy.py
+p238
+aV1288 - Destruction Cannon.py
+p239
+aV1299 - Game of Tiles.py
+p240
+aV1310 - Profit.py
+p241
+aV1312 - Ball Stacking.py
+p242
+aV1319 - Hyperactive Girl.py
+p243
+aV1325 - Bubble Maps.py
+p244
+aV1350 - This Sentence is False.py
+p245
+aV1354 - Bigger Square Please.py
+p246
+aV1365 - Finding Seats.py
+p247
+aV1372 - Candy.py
+p248
+aV1395 - Numbers and Operations.py
+p249
+aV1396 - There's an Exam from Cris Today!.py
+p250
+aV1408 - Mario.py
+p251
+aV1412 - Code Lock.py
+p252
+aV1416 - ICPC Scoreboard.py
+p253
+aV1432 - Triple-Free Binary Strings.py
+p254
+aV1473 - Lines of Containers.py
+p255
+aV1474 - Buses.py
+p256
+aV1475 - Patches.py
+p257
+aV1485 - Turkish Roulette.py
+p258
+aV1487 - Six Flags.py
+p259
+aV1493 - Disjoint Water Supply.py
+p260
+aV1494 - Eleven.py
+p261
+aV1509 - Counting Ambiguities.py
+p262
+aV1510 - The Sightseeing Tour.py
+p263
+aV1513 - Horse.py
+p264
+aV1517 - Apples.py
+p265
+aV1522 - Stack Game.py
+p266
+aV1524 - Cafeteria Queue.py
+p267
+aV1543 - Board With Prizes.py
+p268
+aV1545 - Cards II.py
+p269
+aV1565 - Connect the Points.py
+p270
+aV1579 - Transport of Solar Panels.py
+p271
+aV1590 - Cuarenta and Two.py
+p272
+aV1595 - Humm.. Run or Walk.. That's the Question.py
+p273
+aV1596 - Yusuf II's Tournament.py
+p274
+aV1597 - Unmasking the Sultan's Employee.py
+p275
+aV1598 - The Real Value of Mats.py
+p276
+aV1599 - Peaks of Atlas.py
+p277
+aV1600 - The Cat of The Caretaker of The Warehouse.py
+p278
+aV1601 - Partition of The Herd.py
+p279
+aV1602 - Hyperprimes.py
+p280
+aV1603 - Qanat Canals.py
+p281
+aV1604 - Pair-voting in The Board of Gueliz.py
+p282
+aV1605 - Building Your Own Cafila.py
+p283
+aV1606 - The Hints of Ali Baba.py
+p284
+aV1608 - Maria's Cakes.py
+p285
+aV1611 - Crowded Elevator.py
+p286
+aV1614 - Help the Tourist.py
+p287
+aV1616 - Prom.py
+p288
+aV1636 - Cyclic Antimonotonic Permutations.py
+p289
+aV1637 - Elias Gamma Coding.py
+p290
+aV1642 - Broken Keyboard.py
+p291
+aV1643 - Convert Kilometers to Miles.py
+p292
+aV1645 - El Dorado.py
+p293
+aV1648 - Help Bob.py
+p294
+aV1649 - Annoying Painting Tool.py
+p295
+aV1654 - Grocery Store.py
+p296
+aV1659 - Economic Phone Calls.py
+p297
+aV1661 - Wine Trading in Gergovia.py
+p298
+aV1666 - Any Fool Can Do It.py
+p299
+aV1672 - In Danger.py
+p300
+aV1681 - Fold.py
+p301
+aV1682 - Genetic Code.py
+p302
+aV1685 - Daniel's Square.py
+p303
+aV1687 - Unlock the Smartphone.py
+p304
+aV1689 - Radars.py
+p305
+aV1690 - Subset Sum.py
+p306
+aV1700 - Antennas.py
+p307
+aV1707 - Numbers Game.py
+p308
+aV1720 - Mondriaan's Dream.py
+p309
+aV1727 - Euro Cup 2000.py
+p310
+aV1744 - Black and White Stones.py
+p311
+aV1767 - Santa Claus Bag.py
+p312
+aV1775 - Andre and the Mentos.py
+p313
+aV1777 - Walk of Fame.py
+p314
+aV1784 - Birds vs Crows.py
+p315
+aV1788 - Playing with Numbers.py
+p316
+aV1798 - Pipe Cutting.py
+p317
+aV1810 - Beverly Hills, Century City.py
+p318
+aV1822 - Constructions of China.py
+p319
+aV1833 - Christmas Decoration.py
+p320
+aV1838 - The Philosopher's Stone.py
+p321
+aV1843 - The Half-Blood Prince.py
+p322
+aV1852 - Stark Direwolves.py
+p323
+aV1860 - Cersei's Walk of Shame.py
+p324
+aV1878 - Contests in Sequence.py
+p325
+aV1892 - Freshman Beats Veteran?.py
+p326
+aV1900 - Null Sequences.py
+p327
+aV1905 - Cops and Robbers.py
+p328
+aV1912 - Help Seu Madruga.py
+p329
+aV1913 - Help Mr. Barriga.py
+p330
+aV1922 - Diego and Hammer Game.py
+p331
+aV1927 - Tapioca and The Chocolate Rain.py
+p332
+aV1970 - First Contact.py
+p333
+aV1976 - Matrices.py
+p334
+aV1978 - Cameras.py
+p335
+aV1996 - A Canvas Building.py
+p336
+aV2024 - Piling Gifts.py
+p337
+aV2026 - Christmas Tree.py
+p338
+aV2027 - Noel Bet.py
+p339
+aV2036 - Domino Effect.py
+p340
+aV2042 - Fofão of Persia.py
+p341
+aV2050 - Ramsey's Saloon.py
+p342
+aV2052 - Karnaugh Maps II.py
+p343
+aV2053 - ET Phone Home.py
+p344
+aV2072 - Anubis's Cannons.py
+p345
+aV2080 - Röntgen Sequences.py
+p346
+aV2089 - Cafeteria.py
+p347
+aV2095 - War.py
+p348
+aV2099 - Game of Stones.py
+p349
+aV2105 - Monopoly.py
+p350
+aV2106 - Assembling.py
+p351
+aV2109 - Spies's Duel.py
+p352
+aV2113 - Sverdlovsk's Incident.py
+p353
+aV2115 - Production in Ekaterinburg.py
+p354
+aV2119 - Goão and Stairs.py
+p355
+aV2124 - Mrs. Montagny Menu!.py
+p356
+aV2169 - Help Leonardo!.py
+p357
+aV2181 - URI - Uireb Rhom uin Iavas.py
+p358
+aV2183 - Final Battle.py
+p359
+aV2220 - Helping Gust-Avô.py
+p360
+aV2224 - Pomekon Tournament.py
+p361
+aV2226 - Balloon Factory.py
+p362
+aV2236 - Hot Potato.py
+p363
+aV2243 - Isosceles.py
+p364
+aV2360 - Centrals of Supervision.py
+p365
+aV2361 - Input and Output.py
+p366
+aV2363 - Playing with Transformations.py
+p367
+aV2364 - Henrique.py
+p368
+aV2446 - Troco.py
+p369
+aV2475 - Manufacture of Presents.py
+p370
+aV2480 - Red Lights.py
+p371
+aV2481 - It's a Trap Bino.py
+p372
+aV2491 - Habay e Robfilho \u2013 Os Fujões.py
+p373
+aV2498 - Help Vânia.py
+p374
+aV2501 - Allowed Factors.py
+p375
+aV2524 - Strawberry Candies.py
+p376
+aV2527 - Cheddar.py
+p377
+aV2532 - Demogorgon.py
+p378
+aV2553 - Tour in FdI.py
+p379
+aV2555 - University Quiz.py
+p380
+aV2563 - Transfer to the Professor.py
+p381
+aV2599 - Counting Radars.py
+p382
+aV2664 - Ginástica.py
+p383
+aV2677 - Even or Odd.py
+p384
+aV2713 - The Wizard is Relentless.py
+p385
+aV2716 - Splitting Assignments II.py
+p386
+aV2723 - Balancing Gifts.py
+p387
+aV2778 - Dabriel's Matrix.py
+p388
+aV2799 - Northern Choir.py
+p389
+aV2811 - Sibi-Xor.py
+p390
+aV2818 - Funny Game.py
+p391
+aV2842 - Dabriel and Your Strings.py
+p392
+aV2856 - Cheese Bread Trip.py
+p393
+aV2877 - Bolinhas de Gude.py
+p394
+aV2881 - Festival.py
+p395
+aV2882 - Gasolina.py
+p396
+aV2888 - Modificando SAT.py
+p397
+aV2895 - Balance Scales.py
+p398
+aV2917 - String.py
+p399
+aV2918 - Smart Digits.py
+p400
+aV2919 - Best Order.py
+p401
+aV2920 - Small Number.py
+p402
+aV2921 - Alien Charts.py
+p403
+aV2932 - Santa's Reindeers.py
+p404
+aV2934 - Noel and His Reindeer.py
+p405
+asS'Beginner'
+p406
+(lp407
+V1001 - Extremely Basic.py
+p408
+aV1002 - Area of a Circle.py
+p409
+aV1003 - Simple Sum.py
+p410
+aV1004 - Simple Product.py
+p411
+aV1005 - Average 1.py
+p412
+aV1006 - Average 2.py
+p413
+aV1007 - Difference.py
+p414
+aV1008 - Salary.py
+p415
+aV1009 - Salary with Bonus.py
+p416
+aV1010 - Simple Calculate.py
+p417
+aV1011 - Sphere.py
+p418
+aV1012 - Area.py
+p419
+aV1013 - The Greatest.py
+p420
+aV1014 - Consumption.py
+p421
+aV1015 - Distance Between Two Points.py
+p422
+aV1016 - Distance.py
+p423
+aV1017 - Fuel Spent.py
+p424
+aV1018 - Banknotes.py
+p425
+aV1019 - Time Conversion.py
+p426
+aV1020 - Age in Days.py
+p427
+aV1021 - Banknotes and Coins.py
+p428
+aV1035 - Selection Test 1.py
+p429
+aV1036 - Bhaskara's Formula.py
+p430
+aV1037 - Interval.py
+p431
+aV1038 - Snack.py
+p432
+aV1040 - Average 3.py
+p433
+aV1041 - Coordinates of a Point.py
+p434
+aV1042 - Simple Sort.py
+p435
+aV1043 - Triangle.py
+p436
+aV1044 - Multiples.py
+p437
+aV1045 - Triangle Types.py
+p438
+aV1046 - Game Time.py
+p439
+aV1047 - Game Time with Minutes.py
+p440
+aV1048 - Salary Increase.py
+p441
+aV1049 - Animal.py
+p442
+aV1050 - DDD.py
+p443
+aV1051 - Taxes.py
+p444
+aV1052 - Month.py
+p445
+aV1059 - Even Numbers.py
+p446
+aV1060 - Positive Numbers.py
+p447
+aV1061 - Event Time.py
+p448
+aV1064 - Positives and Average.py
+p449
+aV1065 - Even Between five Numbers.py
+p450
+aV1066 - Even, Odd, Positive and Negative.py
+p451
+aV1067 - Odd Numbers.py
+p452
+aV1070 - Six Odd Numbers.py
+p453
+aV1071 - Sum of Consecutive Odd Numbers I.py
+p454
+aV1072 - Interval 2.py
+p455
+aV1073 - Even Square.py
+p456
+aV1074 - Even or Odd.py
+p457
+aV1075 - Remaining 2.py
+p458
+aV1078 - Multiplication Table.py
+p459
+aV1079 - Weighted Averages.py
+p460
+aV1080 - Highest and Position.py
+p461
+aV1094 - Experiments.py
+p462
+aV1095 - Sequence IJ 1.py
+p463
+aV1096 - Sequence IJ 2.py
+p464
+aV1097 - Sequence IJ 3.py
+p465
+aV1098 - Sequence IJ 4.py
+p466
+aV1099 - Sum of Consecutive Odd Numbers II.py
+p467
+aV1101 - Sequence of Numbers and Sum.py
+p468
+aV1113 - Ascending and Descending.py
+p469
+aV1114 - Fixed Password.py
+p470
+aV1115 - Quadrant.py
+p471
+aV1116 - Dividing X by Y.py
+p472
+aV1117 - Score Validation.py
+p473
+aV1118 - Several Scores with Validation.py
+p474
+aV1131 - Grenais.py
+p475
+aV1132 - Multiples of 13.py
+p476
+aV1133 - Rest of a Division.py
+p477
+aV1134 - Type of Fuel.py
+p478
+aV1142 - PUM.py
+p479
+aV1143 - Squared and Cubic.py
+p480
+aV1144 - Logical Sequence.py
+p481
+aV1145 - Logical Sequence 2.py
+p482
+aV1146 - Growing Sequences.py
+p483
+aV1149 - Summing Consecutive Integers.py
+p484
+aV1150 - Exceeding Z.py
+p485
+aV1151 - Easy Fibonacci.py
+p486
+aV1153 - Simple Factorial.py
+p487
+aV1154 - Ages.py
+p488
+aV1155 - S Sequence.py
+p489
+aV1156 - S Sequence II.py
+p490
+aV1157 - Divisors I.py
+p491
+aV1158 - Sum of Consecutive Odd Numbers III.py
+p492
+aV1159 - Sum of Consecutive Even Numbers.py
+p493
+aV1160 - Population Increase.py
+p494
+aV1164 - Perfect Number.py
+p495
+aV1165 - Prime Number.py
+p496
+aV1172 - Array Replacement I.py
+p497
+aV1173 - Array fill I.py
+p498
+aV1174 - Array Selection I.py
+p499
+aV1175 - Array change I.py
+p500
+aV1176 - Fibonacci Array.py
+p501
+aV1177 - Array Fill II.py
+p502
+aV1178 - Array Fill III.py
+p503
+aV1179 - Array Fill IV.py
+p504
+aV1180 - Lowest Number and Position.py
+p505
+aV1181 - Line in Array.py
+p506
+aV1182 - Column in Array.py
+p507
+aV1183 - Above the Main Diagonal.py
+p508
+aV1184 - Below the Main Diagonal.py
+p509
+aV1185 - Above the Secundary Diagonal.py
+p510
+aV1186 - Below the Secundary Diagonal.py
+p511
+aV1187 - Top Area.py
+p512
+aV1188 - Inferior Area.py
+p513
+aV1189 - Left Area.py
+p514
+aV1190 - Right Area.py
+p515
+aV1435 - Square Matrix I.py
+p516
+aV1478 - Square Matrix II.py
+p517
+aV1534 - Array 123.py
+p518
+aV1541 - Building Houses.py
+p519
+aV1557 - Square Matrix III.py
+p520
+aV1564 - Brazil World Cup.py
+p521
+aV1589 - Bob Conduit.py
+p522
+aV1759 - Ho Ho Ho.py
+p523
+aV1789 - The Race of Slugs.py
+p524
+aV1827 - Square Array IV.py
+p525
+aV1828 - Bazinga!.py
+p526
+aV1837 - Preface.py
+p527
+aV1847 - Welcome to the Winter!.py
+p528
+aV1848 - Counting Crow.py
+p529
+aV1858 - Theon's Answer.py
+p530
+aV1864 - Our Days Are Never Coming Back.py
+p531
+aV1865 - Mjölnir.py
+p532
+aV1866 - Bill.py
+p533
+aV1914 - Whose Turn Is It?.py
+p534
+aV1921 - Guilherme and His Kites.py
+p535
+aV1924 - Vitória and Her Indecision.py
+p536
+aV1929 - Triangle.py
+p537
+aV1930 - Electrical Outlet.py
+p538
+aV1933 - Tri-du.py
+p539
+aV1957 - Converting to Hexadecimal.py
+p540
+aV1958 - Scientific Notation.py
+p541
+aV1959 - Regular Simple Polygons.py
+p542
+aV1960 - Roman Numerals for Page Numbers.py
+p543
+aV1961 - Jumping Frog.py
+p544
+aV1962 - A Long, Long Time Ago.py
+p545
+aV1963 - The Motion Picture.py
+p546
+aV1973 - Star Trek.py
+p547
+aV1983 - The Chosen.py
+p548
+aV1984 - The Pronalância Puzzle.py
+p549
+aV1985 - MacPRONALTS.py
+p550
+aV2003 - Sunday Morning.py
+p551
+aV2006 - Identifying Tea.py
+p552
+aV2028 - Sequence of Sequence.py
+p553
+aV2029 - Honey Reservoir.py
+p554
+aV2031 - Rock, Paper, Airstrike.py
+p555
+aV2057 - Time Zone.py
+p556
+aV2059 - Odd, Even or Cheating.py
+p557
+aV2060 - Bino's Challenge.py
+p558
+aV2061 - Closing Tabs.py
+p559
+aV2126 - Searching Subsequences.py
+p560
+aV2139 - Pedrinho's Christmas.py
+p561
+aV2140 - Two Bills.py
+p562
+aV2143 - The Return of Radar.py
+p563
+aV2146 - Password.py
+p564
+aV2147 - Galopeira.py
+p565
+aV2152 - Pepe, I Already Took the Candle!.py
+p566
+aV2159 - Approximate Number of Primes.py
+p567
+aV2160 - Name at Form.py
+p568
+aV2161 - Square Root of 10.py
+p569
+aV2162 - Peaks and Valleys.py
+p570
+aV2163 - The Force Awakens.py
+p571
+aV2164 - Fast Fibonacci.py
+p572
+aV2165 - Twitting.py
+p573
+aV2166 - Square Root of 2.py
+p574
+aV2167 - Engine Failure.py
+p575
+aV2168 - Twilight at Portland.py
+p576
+aV2172 - Event.py
+p577
+aV2176 - Parity.py
+p578
+aV2203 - Crowstorm.py
+p579
+aV2221 - Pomekons Battle.py
+p580
+aV2222 - Playing with Sets.py
+p581
+aV2234 - Hot Dogs.py
+p582
+aV2235 - Walking in Time.py
+p583
+aV2310 - Volleyball.py
+p584
+aV2311 - Diving.py
+p585
+aV2313 - Which Triangle.py
+p586
+aV2334 - Little Ducks.py
+p587
+aV2338 - Morse.py
+p588
+aV2483 - Merry Christmaaas!.py
+p589
+aV2486 - C Mais ou Menos?.py
+p590
+aV2493 - Jogo do Operador.py
+p591
+aV2502 - Deciphering the Encrypted Card.py
+p592
+aV2510 - Batmain.py
+p593
+aV2520 - The Last Analógimôn.py
+p594
+aV2523 - Will's Message.py
+p595
+aV2533 - Internship.py
+p596
+aV2534 - General Exam.py
+p597
+aV2540 - Leader's Impeachment.py
+p598
+aV2542 - Iu-Di-Oh!.py
+p599
+aV2543 - UFPR Gaming.py
+p600
+aV2544 - Kage Bunshin no Jutsu.py
+p601
+aV2547 - Roller Coaster.py
+p602
+aV2551 - New Record.py
+p603
+aV2552 - CheeseBreadSweeper.py
+p604
+aV2554 - Pizza Before BH.py
+p605
+aV2581 - I am Toorg!.py
+p606
+aV2582 - System of a Download.py
+p607
+aV2626 - JB6 Team.py
+p608
+aV2630 - Greyscale.py
+p609
+aV2631 - Making Pairs.py
+p610
+aV2632 - Magic and Sword.py
+p611
+aV2633 - Barbecue at Yuri\u2019s.py
+p612
+aV2634 - On Behalf of The Science.py
+p613
+aV2635 - Web Browser.py
+p614
+aV2636 - 3-RSA.py
+p615
+aV2637 - Batera\u2019s House.py
+p616
+aV2639 - Get a Clue!.py
+p617
+aV2640 - Mission Improbable.py
+p618
+aV2643 - Posterize.py
+p619
+aV2646 - Secret Chamber at Mount Rushmore.py
+p620
+aV2648 - Tarot Sham Boast.py
+p621
+aV2653 - Dijkstra.py
+p622
+aV2663 - Fase.py
+p623
+aV2670 - Máquina de Café.py
+p624
+aV2674 - Super Primes: Engage!.py
+p625
+aV2684 - Help Professor Webscript!!.py
+p626
+aV2685 - The Change.py
+p627
+aV2686 - The Change Continues!!.py
+p628
+aV2687 - Bacterial Domination.py
+p629
+aV2689 - Game of the Miao.py
+p630
+aV2690 - New Password RA.py
+p631
+aV2695 - Arranging Tiles.py
+p632
+aV2698 - Daunting Device.py
+p633
+aV2699 - Enigma.py
+p634
+aV2700 - Fundraising.py
+p635
+aV2701 - Gates of Uncertainty.py
+p636
+aV2702 - Hard Choice.py
+p637
+aV2703 - Imperial Roads.py
+p638
+aV2704 - Jumping Frog.py
+p639
+aV2705 - Keep It Covered.py
+p640
+aV2706 - Linearville.py
+p641
+aV2708 - Tourists in the Huacachina Park.py
+p642
+aV2709 - The Coins of Robbie.py
+p643
+aV2710 - Game of Array.py
+p644
+aV2712 - Vehicular Restriction.py
+p645
+aV2715 - Splitting Assignments I.py
+p646
+aV2717 - Elf Time.py
+p647
+aV2718 - Christmas Lights.py
+p648
+aV2720 - Large Presents.py
+p649
+aV2721 - Indecision of Reindeers.py
+p650
+aV2724 - Help Patatatitu.py
+p651
+aV2727 - Secret Code.py
+p652
+aV2747 - Output 1.py
+p653
+aV2748 - Output 2.py
+p654
+aV2749 - Output 3.py
+p655
+aV2750 - Output 4.py
+p656
+aV2751 - Output 5.py
+p657
+aV2752 - Output 6.py
+p658
+aV2753 - Output 7.py
+p659
+aV2754 - Output 8.py
+p660
+aV2755 - Output 9.py
+p661
+aV2756 - Output 10.py
+p662
+aV2757 - Input and Output of Integers.py
+p663
+aV2758 - Floating Number Input and Output.py
+p664
+aV2759 - Input and Output Character.py
+p665
+aV2760 - String Input and Output.py
+p666
+aV2761 - Input and Output of Various Types.py
+p667
+aV2762 - Input and Output 6.py
+p668
+aV2763 - CPF Input and Output.py
+p669
+aV2764 - Date Input and Output.py
+p670
+aV2765 - Coming Input and Output.py
+p671
+aV2766 - Input and Output Reading and Skipping Names.py
+p672
+aV2769 - Assembly Line.py
+p673
+aV2770 - Board Size.py
+p674
+aV2772 - Plantation.py
+p675
+aV2774 - Sensor Accuracy.py
+p676
+aV2775 - Preparing Production.py
+p677
+aV2776 - Promotions.py
+p678
+aV2779 - Album of the Cup.py
+p679
+aV2780 - Robot Basketball.py
+p680
+aV2781 - Compensation Camera.py
+p681
+aV2782 - Stepladder.py
+p682
+aV2783 - Cup Stickers.py
+p683
+aV2784 - Islands.py
+p684
+aV2785 - Pyramid.py
+p685
+aV2786 - School Floor.py
+p686
+aV2787 - Chess.py
+p687
+aV2791 - Bean.py
+p688
+aV2802 - Dividing Circles.py
+p689
+aV2804 - Railways.py
+p690
+aV2807 - Iccanobif.py
+p691
+aV2808 - Knights Again.py
+p692
+aV2812 - Laércio.py
+p693
+aV2813 - Avoiding Rain.py
+p694
+aV2823 - Eearliest Deadline First.py
+p695
+aV2826 - Lexical.py
+p696
+aV2827 - Tokens Frequency.py
+p697
+aV2828 - Anagrams.py
+p698
+aV2829 - Uppercase, Why?.py
+p699
+aV2841 - Dabriel and Your Party.py
+p700
+aV2845 - Party at the North Pole.py
+p701
+aV2846 - Fibonot.py
+p702
+aV2850 - Polyglot Parrot.py
+p703
+aV2852 - Messaging.py
+p704
+aV2855 - Lucky Numbers.py
+p705
+aV2861 - The Output.py
+p706
+aV2862 - Insect!.py
+p707
+aV2863 - Umil Bolt.py
+p708
+aV2867 - Digits.py
+p709
+aV2869 - Talking about Divisor ....py
+p710
+aV2879 - Desvendando Monty Hall.py
+p711
+aV2896 - Enjoy the Offer.py
+p712
+aV2930 - Final Thesis of Christmas Depression.py
+p713
+asS'Ad-Hoc'
+p714
+(lp715
+V1026 - To Carry or not to Carry.py
+p716
+aV1030 - Flavious Josephus Legend.py
+p717
+aV1031 - Power Crisis.py
+p718
+aV1032 - Joseph\u2019s Cousin.py
+p719
+aV1086 - The Club Ballroom.py
+p720
+aV1087 - Queen.py
+p721
+aV1089 - Musical Loop.py
+p722
+aV1090 - Set.py
+p723
+aV1091 - Division of Nlogonia.py
+p724
+aV1092 - Longest Increasing Sub-sequence.py
+p725
+aV1103 - Alarm Clock.py
+p726
+aV1104 - Exchanging Cards.py
+p727
+aV1105 - Sub-prime.py
+p728
+aV1107 - Laser Sculpture.py
+p729
+aV1109 - Cheating on the Contest.py
+p730
+aV1121 - Sticker Collector Robot.py
+p731
+aV1122 - Account Book.py
+p732
+aV1125 - Formula 1.py
+p733
+aV1127 - Musical Plagiarism.py
+p734
+aV1129 - Optical Reader.py
+p735
+aV1130 - Tic-tac-toe.py
+p736
+aV1136 - Bingo!.py
+p737
+aV1138 - Digits Count.py
+p738
+aV1139 - Electric Needs.py
+p739
+aV1140 - Flowers Flourish from France.py
+p740
+aV1147 - Knight Scape.py
+p741
+aV1171 - Number Frequence.py
+p742
+aV1192 - Paula's Mathematic Game.py
+p743
+aV1196 - WERTYU.py
+p744
+aV1206 - Challenge of St. Petersburg.py
+p745
+aV1209 - St. Petersburg Parties.py
+p746
+aV1216 - Getline One.py
+p747
+aV1217 - Getline Two - Fruits.py
+p748
+aV1218 - Getline Three - Shoes.py
+p749
+aV1225 - Perfect Choir.py
+p750
+aV1228 - Start Grid.py
+p751
+aV1245 - Lost Boots.py
+p752
+aV1246 - Parking Lot.py
+p753
+aV1250 - KiloMan.py
+p754
+aV1266 - Tornado!.py
+p755
+aV1267 - Pascal Library.py
+p756
+aV1271 - Where Are My Genes.py
+p757
+aV1285 - Different Digits.py
+p758
+aV1290 - Very Special Boxes.py
+p759
+aV1300 - Hours and Minutes.py
+p760
+aV1311 - Army Buddies.py
+p761
+aV1318 - Fake Tickets.py
+p762
+aV1320 - Ingenious Metro.py
+p763
+aV1321 - Jollo.py
+p764
+aV1327 - Drop Out.py
+p765
+aV1329 - Head or Tail.py
+p766
+aV1331 - Blocks.py
+p767
+aV1333 - Candy\u2019s Candy.py
+p768
+aV1337 - King\u2019s Poker.py
+p769
+aV1339 - Grandpa's Rubik.py
+p770
+aV1342 - Dice.py
+p771
+aV1343 - Runner Pawns.py
+p772
+aV1349 - Noise Effect.py
+p773
+aV1351 - Supermarket.py
+p774
+aV1357 - In Braille.py
+p775
+aV1359 - Land Division Tax.py
+p776
+aV1360 - Magic Trick.py
+p777
+aV1361 - Building Designing.py
+p778
+aV1363 - Car Plates Competition.py
+p779
+aV1366 - Sticks Game.py
+p780
+aV1368 - Colorful Cubes.py
+p781
+aV1369 - Memory Manager.py
+p782
+aV1374 - Electricity.py
+p783
+aV1375 - Pole Position.py
+p784
+aV1378 - Isosceles Triangles.py
+p785
+aV1379 - Mean Median Problem.py
+p786
+aV1383 - Sudoku.py
+p787
+aV1387 - Og.py
+p788
+aV1397 - Game of The Greatest.py
+p789
+aV1403 - Grandpa is Famous.py
+p790
+aV1404 - MegaCheckers.py
+p791
+aV1407 - Weekend Lottery.py
+p792
+aV1410 - He is Offside!.py
+p793
+aV1414 - World Cup.py
+p794
+aV1418 - Another Crisis.py
+p795
+aV1419 - Bakugan.py
+p796
+aV1420 - Counting Seconds.py
+p797
+aV1421 - Tic-Tac-Toe?.py
+p798
+aV1426 - Add Bricks in The Wall.py
+p799
+aV1428 - Searching for Nessy.py
+p800
+aV1431 - Klingon Levels.py
+p801
+aV1437 - Turn Left!.py
+p802
+aV1438 - Unloading Boxes.py
+p803
+aV1440 - Dinner Hall.py
+p804
+aV1441 - Hailstone Sequences.py
+p805
+aV1443 - Traffic Jam.py
+p806
+aV1445 - Who's Going To The Party?.py
+p807
+aV1453 - Crossword With No Words.py
+p808
+aV1459 - Focus.py
+p809
+aV1460 - Grapevine.py
+p810
+aV1467 - Zero or One.py
+p811
+aV1470 - Folding Machine.py
+p812
+aV1471 - Dangerous Dive.py
+p813
+aV1472 - Triangles.py
+p814
+aV1480 - The Famous Mine Sweeper.py
+p815
+aV1483 - Animal Game.py
+p816
+aV1486 - Biochemical Digital Circuit.py
+p817
+aV1495 - Football.py
+p818
+aV1496 - Go up the "Ultras".py
+p819
+aV1508 - Laser Beam.py
+p820
+aV1514 - Contest.py
+p821
+aV1515 - Hello Galaxy.py
+p822
+aV1518 - Turtles.py
+p823
+aV1521 - The Guilty.py
+p824
+aV1528 - Entangled Ropes.py
+p825
+aV1532 - Throwing Balls.py
+p826
+aV1533 - Detective Watson.py
+p827
+aV1536 - Libertadores.py
+p828
+aV1540 - Energy Planning.py
+p829
+aV1542 - Reading Books.py
+p830
+aV1546 - Feedback.py
+p831
+aV1547 - Guess What.py
+p832
+aV1553 - Frequent Asked Questions.py
+p833
+aV1558 - Sum of Two Squares.py
+p834
+aV1559 - 2048.py
+p835
+aV1561 - Binary Watch.py
+p836
+aV1569 - Snakes and Ladders.py
+p837
+aV1573 - Chocolate Factory.py
+p838
+aV1574 - Robot Instructions.py
+p839
+aV1575 - Chasing After Don Giovanni.py
+p840
+aV1576 - The Skyline Problem.py
+p841
+aV1578 - Matrix of Squares.py
+p842
+aV1583 - Contamination.py
+p843
+aV1585 - Making Kites.py
+p844
+aV1588 - Help the Federation.py
+p845
+aV1591 - Grandma's Day.py
+p846
+aV1593 - Binary Function.py
+p847
+aV1609 - Counting Sheep.py
+p848
+aV1612 - Little Ant.py
+p849
+aV1615 - Insatisfaction on Elections.py
+p850
+aV1618 - Colision.py
+p851
+aV1619 - Date Difference.py
+p852
+aV1622 - Lamps.py
+p853
+aV1627 - Last Hit.py
+p854
+aV1638 - Food Portion Size.py
+p855
+aV1639 - Generate Random Numbers.py
+p856
+aV1652 - Deli Deli.py
+p857
+aV1657 - Automatic Correction of Misspellings.py
+p858
+aV1663 - Ambiguous Permutations.py
+p859
+aV1670 - Boolean Logic.py
+p860
+aV1676 - Assistance Required.py
+p861
+aV1678 - Fixed Partition Contest Management.py
+p862
+aV1680 - Edge.py
+p863
+aV1684 - Candy Marathon.py
+p864
+aV1691 - Super Circumference.py
+p865
+aV1699 - Very Boring Game.py
+p866
+aV1708 - Lap.py
+p867
+aV1710 - Confederation.py
+p868
+aV1712 - Ecology.py
+p869
+aV1714 - Letters.py
+p870
+aV1715 - Handball.py
+p871
+aV1716 - RSA.py
+p872
+aV1717 - Cut.py
+p873
+aV1718 - Grandpa Pepe's Pizza.py
+p874
+aV1719 - Simple Computers.py
+p875
+aV1728 - Hard to Believe, But True!.py
+p876
+aV1731 - Advanced Fruits.py
+p877
+aV1732 - Bee Maja.py
+p878
+aV1739 - Threebonacci Sequence.py
+p879
+aV1741 - Reversed John\u2019s Notation.py
+p880
+aV1743 - Automated Checking Machine.py
+p881
+aV1750 - Help Cupid.py
+p882
+aV1753 - Knights Of The Round Table.py
+p883
+aV1755 - The Change.py
+p884
+aV1758 - Bonus Grade Points.py
+p885
+aV1765 - Christmas Trapeziums.py
+p886
+aV1769 - SSN 1.py
+p887
+aV1770 - Shuffle.py
+p888
+aV1771 - Random Bingo Cards.py
+p889
+aV1772 - Bit Shuffling.py
+p890
+aV1779 - Estimating the Mean.py
+p891
+aV1780 - Robots Formation.py
+p892
+aV1786 - SSN 2.py
+p893
+aV1787 - URI.py
+p894
+aV1791 - Discovering an Matrix.py
+p895
+aV1793 - Escalator.py
+p896
+aV1794 - Laundry.py
+p897
+aV1796 - Brazilian Economy.py
+p898
+aV1800 - Where Are My Keys.py
+p899
+aV1802 - Books Catalog.py
+p900
+aV1808 - The Return of The King.py
+p901
+aV1809 - Secret Agents.py
+p902
+aV1811 - The Oscar Goes To....py
+p903
+aV1814 - DNA Storage?.py
+p904
+aV1816 - Prague Vikings?.py
+p905
+aV1817 - Tsing Ling Archaeologists.py
+p906
+aV1820 - Sing Pil University Groups.py
+p907
+aV1824 - Tse Tse Frogs.py
+p908
+aV1832 - EBCDIC.py
+p909
+aV1836 - Pokémon!.py
+p910
+aV1840 - The Prisoner of Azkaban.py
+p911
+aV1845 - Efilogue.py
+p912
+aV1849 - Dracarys!.py
+p913
+aV1867 - The Greater One-digit Number.py
+p914
+aV1870 - Fans and Balloons.py
+p915
+aV1876 - Rabiola.py
+p916
+aV1877 - Sansa's Snow Castle.py
+p917
+aV1879 - Bridge.py
+p918
+aV1880 - Renzo and the Palindromic Decoration.py
+p919
+aV1881 - Robotics Competition.py
+p920
+aV1882 - Random Walks in Thailand.py
+p921
+aV1884 - Fighting the Rajasi.py
+p922
+aV1885 - Thai Lotery.py
+p923
+aV1886 - Protecting the Temples.py
+p924
+aV1887 - The Kunming-Singapore Railway.py
+p925
+aV1888 - The chedis of Kamphaeng Phet.py
+p926
+aV1889 - Training With the Larvae of Phuket.py
+p927
+aV1890 - Putting Plates on the Tuk-tuks.py
+p928
+aV1891 - Removing Coins in the Kem Kradan.py
+p929
+aV1893 - Moon Phases.py
+p930
+aV1895 - Game of Limit.py
+p931
+aV1896 - It's Time to Duel!.py
+p932
+aV1899 - Hit the Target!.py
+p933
+aV1901 - Butterflies.py
+p934
+aV1906 - Collatz Passwords.py
+p935
+aV1916 - Jaiminho\u2019s Bank Hours.py
+p936
+aV1917 - Help Chapolin Colorado!.py
+p937
+aV1918 - Trip to Acapulco.py
+p938
+aV1919 - Help Nhonho.py
+p939
+aV1920 - Fountain of Desires.py
+p940
+aV1932 - Stock Market.py
+p941
+aV1934 - Puzzle.py
+p942
+aV1935 - Spiral.py
+p943
+aV1936 - Factorial.py
+p944
+aV1937 - Curious Guardians.py
+p945
+aV1939 - Ominobox.py
+p946
+aV1940 - Strategy Game.py
+p947
+aV1942 - Lottery.py
+p948
+aV1943 - Top N.py
+p949
+aV1945 - Simulator.py
+p950
+aV1947 - Cab Driver Route.py
+p951
+aV1953 - Robert and Rampant Room.py
+p952
+aV1964 - The Wrath of Khan.py
+p953
+aV1965 - The Search for Spock.py
+p954
+aV1966 - The Voyage Home.py
+p955
+aV1975 - Pearls.py
+p956
+aV1980 - Shuffling.py
+p957
+aV1981 - Shuffling Again.py
+p958
+aV1986 - The Martian.py
+p959
+aV1987 - Divisibility by 3.py
+p960
+aV1997 - Black and White.py
+p961
+aV1998 - Awari 2.0.py
+p962
+aV2004 - Enisvaldo's Hunger.py
+p963
+aV2005 - Upset Fracil.py
+p964
+aV2008 - Exposing Corruption.py
+p965
+aV2009 - Just a Bit Sorted.py
+p966
+aV2010 - Keep it Energized.py
+p967
+aV2011 - Galactic Taxes.py
+p968
+aV2012 - Height Map.py
+p969
+aV2013 - At Most Twice.py
+p970
+aV2014 - Blood Groups.py
+p971
+aV2015 - Cake Cut.py
+p972
+aV2016 - D as in Daedalus.py
+p973
+aV2019 - Cici, Cini and Cino.py
+p974
+aV2021 - Christmas Lights.py
+p975
+aV2030 - Pit Stop.py
+p976
+aV2037 - Fixture.py
+p977
+aV2040 - The Champion.py
+p978
+aV2041 - Gödelito's Sequence.py
+p979
+aV2051 - Karnaugh Maps I.py
+p980
+aV2054 - Last Year at Marienbad.py
+p981
+aV2058 - Triangles and Regular Polygons.py
+p982
+aV2070 - Counting MadSequences.py
+p983
+aV2078 - Green Peace! World Hypocrisy!.py
+p984
+aV2090 - I Went to Market And Bought....py
+p985
+aV2102 - Counting in Chinese.py
+p986
+aV2116 - Students Game.py
+p987
+aV2123 - The Law Goes on Horseback!.py
+p988
+aV2125 - Totems Builders.py
+p989
+aV2134 - Who Will Fail?.py
+p990
+aV2138 - Most Frequent Digit.py
+p991
+aV2141 - P4 Simplified.py
+p992
+aV2142 - Stop the Pigeon!.py
+p993
+aV2144 - Bodybuilder.py
+p994
+aV2151 - Rulk's Punch.py
+p995
+aV2156 - The Adventures of Pak-man.py
+p996
+aV2171 - Sharing with Fink.py
+p997
+aV2175 - What is the Fastest?.py
+p998
+aV2178 - Blue Lagoon.py
+p999
+aV2179 - Batuke.py
+p1000
+aV2187 - Bits Exchanged.py
+p1001
+aV2188 - Capuchin Monkey.py
+p1002
+aV2189 - Kermesse.py
+p1003
+aV2191 - Goal Difference.py
+p1004
+aV2192 - To Add or to Multiply.py
+p1005
+aV2193 - Affine Mess.py
+p1006
+aV2194 - Ancient Messages.py
+p1007
+aV2195 - Chips Challenge.py
+p1008
+aV2196 - Coffee Central.py
+p1009
+aV2197 - Machine Works.py
+p1010
+aV2199 - Mining Your Own Business.py
+p1011
+aV2200 - Mummy Madness.py
+p1012
+aV2201 - Pyramids.py
+p1013
+aV2202 - Trash Removal.py
+p1014
+aV2205 - Asteroid Rangers.py
+p1015
+aV2207 - Bus Tour.py
+p1016
+aV2208 - Fibonacci Words.py
+p1017
+aV2209 - Infiltration.py
+p1018
+aV2210 - Keys.py
+p1019
+aV2211 - Minimum Cost Flow.py
+p1020
+aV2212 - Room Service.py
+p1021
+aV2213 - A Safe Bet.py
+p1022
+aV2214 - Shortest Flight Path.py
+p1023
+aV2215 - Stacking Plates.py
+p1024
+aV2216 - Takeover Wars.py
+p1025
+aV2217 - Nove.py
+p1026
+aV2219 - Passing By The PokeStops.py
+p1027
+aV2227 - Airport.py
+p1028
+aV2228 - Treasure Hunt.py
+p1029
+aV2229 - Folding.py
+p1030
+aV2230 - Toll.py
+p1031
+aV2231 - Lunar Temperature.py
+p1032
+aV2233 - Colorful Labels.py
+p1033
+aV2237 - Containers.py
+p1034
+aV2244 - Olympic Games.py
+p1035
+aV2246 - Tiles.py
+p1036
+aV2247 - Grandma Vitória's Piggy Banks.py
+p1037
+aV2248 - Internship.py
+p1038
+aV2249 - Erdos Number.py
+p1039
+aV2250 - Tetris.py
+p1040
+aV2251 - Towers of Hanoi.py
+p1041
+aV2252 - Discovering Password.py
+p1042
+aV2254 - Japanese Daisy Game.py
+p1043
+aV2255 - Self-Assembly.py
+p1044
+aV2257 - Surely You Congest.py
+p1045
+aV2258 - Factors.py
+p1046
+aV2259 - Harvard.py
+p1047
+aV2260 - Low Power.py
+p1048
+aV2261 - Map Tiles.py
+p1049
+aV2262 - Matryoshka.py
+p1050
+aV2263 - Pirate Chest.py
+p1051
+aV2265 - Up a Tree.py
+p1052
+aV2266 - Baggage.py
+p1053
+aV2268 - Crane Balancing.py
+p1054
+aV2270 - Maze Reduction.py
+p1055
+aV2272 - Metal Processing Plant.py
+p1056
+aV2275 - Skiing.py
+p1057
+aV2276 - Surveillance.py
+p1058
+aV2278 - Amalgamated Artichokes.py
+p1059
+aV2279 - Asteroids.py
+p1060
+aV2280 - Catering.py
+p1061
+aV2281 - Cutting Cheese.py
+p1062
+aV2282 - Evolution in Parallel.py
+p1063
+aV2283 - Keyboarding.py
+p1064
+aV2284 - Pipe Stream.py
+p1065
+aV2285 - Palíndrome.py
+p1066
+aV2286 - Par ou Ímpar.py
+p1067
+aV2287 - Proteja sua Senha.py
+p1068
+aV2288 - TV da Vovó.py
+p1069
+aV2289 - Hamming Distance.py
+p1070
+aV2293 - Campo de Minhocas.py
+p1071
+aV2294 - Duende Perdido.py
+p1072
+aV2295 - Frota de Táxi.py
+p1073
+aV2296 - Trilhas.py
+p1074
+aV2297 - Bafo.py
+p1075
+aV2298 - Mini-Poker.py
+p1076
+aV2299 - Pedido de Desculpas.py
+p1077
+aV2301 - Vivo ou Morto.py
+p1078
+aV2302 - Conversa não tão Secreta.py
+p1079
+aV2303 - Margaridas.py
+p1080
+aV2304 - Banco Imobiliário.py
+p1081
+aV2305 - Colheita de Caju.py
+p1082
+aV2306 - Escada Perfeita.py
+p1083
+aV2307 - Jogo de Cartas.py
+p1084
+aV2308 - Museu.py
+p1085
+aV2309 - Truco.py
+p1086
+aV2312 - Medal Table.py
+p1087
+aV2315 - Easy Difference Between Dates.py
+p1088
+aV2316 - Autorama.py
+p1089
+aV2317 - Lobo Mau.py
+p1090
+aV2318 - Quadrado Mágico.py
+p1091
+aV2319 - Penalidade Mínima.py
+p1092
+aV2320 - Subsequência.py
+p1093
+aV2321 - Detectando Colisões.py
+p1094
+aV2322 - Peça Perdida.py
+p1095
+aV2323 - Móbile.py
+p1096
+aV2324 - Pastas.py
+p1097
+aV2325 - Repositórios.py
+p1098
+aV2326 - Sacoleiro.py
+p1099
+aV2327 - Quadrados.py
+p1100
+aV2328 - Chocolate.py
+p1101
+aV2329 - Pão a Metro.py
+p1102
+aV2330 - Telemarketing.py
+p1103
+aV2331 - Uiquipédia.py
+p1104
+aV2332 - Jogo do Labirinto.py
+p1105
+aV2333 - Pizza.py
+p1106
+aV2339 - Aviões de Papel.py
+p1107
+aV2340 - Feira de Bactérias.py
+p1108
+aV2341 - Número de Envelopes.py
+p1109
+aV2342 - Overflow.py
+p1110
+aV2343 - Caçadores de Mitos.py
+p1111
+aV2344 - Notas da Prova.py
+p1112
+aV2345 - Assigning Teams.py
+p1113
+aV2346 - Back to the Future.py
+p1114
+aV2347 - Counting Self-Rotating Subsets.py
+p1115
+aV2348 - Dating On-Line.py
+p1116
+aV2349 - Farm Robot.py
+p1117
+aV2350 - Game of Matchings.py
+p1118
+aV2351 - Hotel Rewards.py
+p1119
+aV2352 - Internet Trouble.py
+p1120
+aV2353 - Just in Time.py
+p1121
+aV2354 - Kill the Werewolf.py
+p1122
+aV2355 - Brazil and Germany.py
+p1123
+aV2365 - Brazilian Soccer' Big Bet.py
+p1124
+aV2366 - Maratona.py
+p1125
+aV2367 - Competição de Chocolate.py
+p1126
+aV2368 - Simulador.py
+p1127
+aV2369 - Conta de Água.py
+p1128
+aV2370 - Times.py
+p1129
+aV2371 - Naval Battle.py
+p1130
+aV2372 - Meeting.py
+p1131
+aV2373 - Garçom.py
+p1132
+aV2374 - Pneu.py
+p1133
+aV2375 - Sedex.py
+p1134
+aV2376 - Copa do Mundo.py
+p1135
+aV2377 - Pedágio.py
+p1136
+aV2378 - Elevator.py
+p1137
+aV2379 - Dança Indígena.py
+p1138
+aV2380 - Fusões.py
+p1139
+aV2381 - Lista de Chamada.py
+p1140
+aV2382 - Sedex Marciano.py
+p1141
+aV2383 - Altas Aventuras.py
+p1142
+aV2384 - Tradutor Alienígena.py
+p1143
+aV2385 - Multiplicação de Matrizes.py
+p1144
+aV2386 - Telescópio.py
+p1145
+aV2387 - Dentista.py
+p1146
+aV2388 - Tacógrafo.py
+p1147
+aV2389 - Floresta.py
+p1148
+aV2390 - Escada Rolante.py
+p1149
+aV2391 - Progressões Aritméticas.py
+p1150
+aV2392 - Pulo do Sapo.py
+p1151
+aV2393 - O Mar não está para Peixe.py
+p1152
+aV2394 - Corrida 1.py
+p1153
+aV2395 - Transporte de Contêineres.py
+p1154
+aV2396 - Corrida.py
+p1155
+aV2397 - Triângulos.py
+p1156
+aV2398 - Caça ao Tesouro.py
+p1157
+aV2399 - Campo Minado.py
+p1158
+aV2400 - Balé.py
+p1159
+aV2401 - Calculadora.py
+p1160
+aV2402 - Selos.py
+p1161
+aV2403 - Escalonamento Ótimo.py
+p1162
+aV2405 - Colorindo.py
+p1163
+aV2406 - Expressões.py
+p1164
+aV2407 - Quadrado Mágico.py
+p1165
+aV2408 - Vice-Campeão.py
+p1166
+aV2409 - Colchão.py
+p1167
+aV2410 - Frequencia na Aula.py
+p1168
+aV2411 - O Tabuleiro Esburacado.py
+p1169
+aV2412 - Tarzan.py
+p1170
+aV2413 - Busca na Internet.py
+p1171
+aV2414 - Desafio do Maior Número.py
+p1172
+aV2415 - Consecutivos.py
+p1173
+aV2416 - Corrida.py
+p1174
+aV2417 - Campeonato.py
+p1175
+aV2418 - Carnaval.py
+p1176
+aV2420 - Guerra por Território.py
+p1177
+aV2421 - Álbum de Fotos.py
+p1178
+aV2422 - Soma das Casas.py
+p1179
+aV2423 - Receita de Bolo.py
+p1180
+aV2424 - Tira-teima.py
+p1181
+aV2425 - Banco.py
+p1182
+aV2426 - Bomba.py
+p1183
+aV2427 - Chocolate.py
+p1184
+aV2428 - Capital.py
+p1185
+aV2430 - Catálogo de Músicas.py
+p1186
+aV2431 - Lençol.py
+p1187
+aV2432 - Tiro ao Alvo.py
+p1188
+aV2433 - Vende-se.py
+p1189
+aV2434 - Saldo do Vovô.py
+p1190
+aV2435 - Corrida.py
+p1191
+aV2436 - Robô.py
+p1192
+aV2437 - Distância de Manhattan.py
+p1193
+aV2438 - Quadradinho de 8.py
+p1194
+aV2439 - Cachecol da Vovó Vitória.py
+p1195
+aV2441 - Janela.py
+p1196
+aV2442 - Plantação.py
+p1197
+aV2443 - Soma de Frações.py
+p1198
+aV2444 - Volume da TV.py
+p1199
+aV2445 - Polígono.py
+p1200
+aV2447 - Torneio.py
+p1201
+aV2448 - Postman.py
+p1202
+aV2449 - Door Lock.py
+p1203
+aV2450 - Matrix Ladder.py
+p1204
+aV2451 - PacMan.py
+p1205
+aV2452 - Semente.py
+p1206
+aV2453 - Língua do P.py
+p1207
+aV2454 - Flíper.py
+p1208
+aV2455 - Gangorra.py
+p1209
+aV2456 - Cards.py
+p1210
+aV2457 - Letras.py
+p1211
+aV2458 - Setas.py
+p1212
+aV2459 - Copa do Mundo.py
+p1213
+aV2460 - Fila.py
+p1214
+aV2461 - Bluff.py
+p1215
+aV2462 - Flight.py
+p1216
+aV2463 - Corredor.py
+p1217
+aV2464 - Decifra.py
+p1218
+aV2465 - Passa Bolinha.py
+p1219
+aV2466 - Sinuca.py
+p1220
+aV2467 - Frequency.py
+p1221
+aV2468 - Map.py
+p1222
+aV2469 - Grades.py
+p1223
+aV2470 - Jogo da Memória.py
+p1224
+aV2471 - Quadrado.py
+p1225
+aV2472 - Tapetes.py
+p1226
+aV2473 - Loteria.py
+p1227
+aV2478 - Hit the Gift.py
+p1228
+aV2479 - Sorting Santa's List of Children.py
+p1229
+aV2487 - Do Lado Escuro do Código.py
+p1230
+aV2500 - William Xorando.py
+p1231
+aV2504 - Biorythm.py
+p1232
+aV2507 - Hamming Code.py
+p1233
+aV2508 - Fortune Teller.py
+p1234
+aV2511 - WWW.py
+p1235
+aV2512 - Reverse Game.py
+p1236
+aV2513 - Xoringan.py
+p1237
+aV2515 - Cracker.py
+p1238
+aV2530 - Cheating.py
+p1239
+aV2536 - FHBZMIPS.py
+p1240
+aV2539 - High Five.py
+p1241
+aV2548 - 3D Virtual Museum.py
+p1242
+aV2556 - CEI's Reopening.py
+p1243
+aV2564 - Swap It or Not?.py
+p1244
+aV2565 - Test Tubes.py
+p1245
+aV2567 - Virus.py
+p1246
+aV2568 - Actions.py
+p1247
+aV2569 - The 7 x 1 Witch.py
+p1248
+aV2570 - Californication.py
+p1249
+aV2571 - Donor.py
+p1250
+aV2572 - Line-up.py
+p1251
+aV2573 - Treasure Hunt.py
+p1252
+aV2574 - Capybara Lagoon.py
+p1253
+aV2575 - Christmas Tree.py
+p1254
+aV2576 - Reversing Arrows.py
+p1255
+aV2577 - Box Game.py
+p1256
+aV2578 - Ontarama Meraini.py
+p1257
+aV2579 - Nagol.py
+p1258
+aV2580 - Master Pokémon Ho.py
+p1259
+aV2586 - Cubenacci.py
+p1260
+aV2590 - Seven.py
+p1261
+aV2592 - VaiNaSort.py
+p1262
+aV2595 - Cash Roial.py
+p1263
+aV2600 - Tustin and His New Die.py
+p1264
+aV2601 - Tustin and His Old Die.py
+p1265
+aV2627 - Automaton Team.py
+p1266
+aV2628 - Treasure Hunt.py
+p1267
+aV2629 - Rodoido.py
+p1268
+aV2641 - Money for Nothing.py
+p1269
+aV2644 - Replicate Replicate Rfplicbte.py
+p1270
+aV2645 - Scenery.py
+p1271
+aV2650 - Building Walls.py
+p1272
+aV2654 - Godofor.py
+p1273
+aV2659 - Brincadeira.py
+p1274
+aV2662 - Escala Musical.py
+p1275
+aV2672 - Network Mask.py
+p1276
+aV2673 - Serial and Parallel Resistors.py
+p1277
+aV2675 - Steal Pack.py
+p1278
+aV2679 - Even Successor.py
+p1279
+aV2682 - Fault Detector.py
+p1280
+aV2693 - Van.py
+p1281
+aV2719 - How Many Trips Will Noel Make?.py
+p1282
+aV2730 - Paired Pairs.py
+p1283
+aV2733 - The Reader's Locker.py
+p1284
+aV2736 - Avalon Numbers.py
+p1285
+aV2771 - Average.py
+p1286
+aV2788 - Class.py
+p1287
+aV2789 - Water Crisis.py
+p1288
+aV2790 - Dices.py
+p1289
+aV2792 - Golnaldinho.py
+p1290
+aV2793 - HM.py
+p1291
+aV2794 - Lighter Mounts.py
+p1292
+aV2795 - Palindrome.py
+p1293
+aV2796 - Houseplant.py
+p1294
+aV2797 - Applying Tests.py
+p1295
+aV2798 - Lero-Lero of Mineira.py
+p1296
+aV2803 - States from the North.py
+p1297
+aV2806 - Typical Ingredients.py
+p1298
+aV2814 - Loud Music.py
+p1299
+aV2830 - Copa.py
+p1300
+aV2831 - Pesos.py
+p1301
+aV2832 - Cápsulas.py
+p1302
+aV2833 - Campeonato.py
+p1303
+aV2834 - Fuga.py
+p1304
+aV2835 - Elevador.py
+p1305
+aV2836 - Wifi.py
+p1306
+aV2837 - Sequência.py
+p1307
+aV2843 - Fast Writing, the Competition.py
+p1308
+aV2844 - Fast Writing, the Duel.py
+p1309
+aV2847 - Paper, Scissors, I Love You!.py
+p1310
+aV2851 - Rangel's Challenge.py
+p1311
+aV2853 - Bibika's Inventions.py
+p1312
+aV2858 - Infinite Board.py
+p1313
+aV2865 - Binary Palindrome.py
+p1314
+aV2868 - Wrrrong!.py
+p1315
+aV2871 - Coffee Harvest.py
+p1316
+aV2874 - Binary Phrase.py
+p1317
+aV2875 - Tunnel Game.py
+p1318
+aV2876 - Aventurando-se no Slackline.py
+p1319
+aV2884 - Interruptores.py
+p1320
+aV2897 - Command History.py
+p1321
+aV2898 - Olympiads.py
+p1322
+aV2899 - Series of Tubes.py
+p1323
+aV2900 - Game of Rods.py
+p1324
+aV2901 - Martian Volleyball.py
+p1325
+aV2902 - Rouba Monte.py
+p1326
+aV2903 - A Symmetrical Pizza.py
+p1327
+aV2904 - Building a Field.py
+p1328
+aV2905 - Cheap Trips.py
+p1329
+aV2906 - Database of Clients.py
+p1330
+aV2907 - Escape, Polygon!.py
+p1331
+aV2908 - Fantastic Beasts.py
+p1332
+aV2909 - Gathering Red-Black Fruits.py
+p1333
+aV2910 - Highway Decommission.py
+p1334
+aV2911 - Ink Colors.py
+p1335
+aV2912 - Jeopardized Election.py
+p1336
+aV2913 - KryptoLocker Ate my Homework.py
+p1337
+aV2914 - Looking for the Risk Factor.py
+p1338
+aV2915 - Mount Marathon.py
+p1339
+aV2922 - Classrooms.py
+p1340
+aV2923 - Birinho.py
+p1341
+aV2924 - BigInt.py
+p1342
+aV2925 - IccanobiF Sequence.py
+p1343
+aV2926 - So This is Christmas!.py
+p1344
+aV2927 - Unforeseen at Christmas.py
+p1345
+aV2928 - Crossing Lakes.py
+p1346
+aV2931 - Suspicious Gifts.py
+p1347
+aV2935 - DNA of Elf.py
+p1348
+aV2936 - How Much Cassava?.py
+p1349
+aV2937 - Snake Norato.py
+p1350
+aV2938 - Jaçanã.py
+p1351
+aV2939 - Couples.py
+p1352
+aV2940 - Broken Time Machine.py
+p1353
+aV2941 - Optical Fiber.py
+p1354
+aV2942 - Bits Mixing.py
+p1355
+aV2943 - Smider Pan.py
+p1356
+aV2944 - Emergency in Manaus.py
+p1357
+aV2945 - Monitor.py
+p1358
+aV2946 - Dabriel and the Divisibility.py
+p1359
+aV2947 - Correct Answers.py
+p1360
+aV2948 - Açaí Planting.py
+p1361
+asS'Graph'
+p1362
+(lp1363
+V1053 - Continuous Drawing.py
+p1364
+aV1056 - Factors and Multiples.py
+p1365
+aV1057 - Going Together.py
+p1366
+aV1076 - Design Labirints.py
+p1367
+aV1081 - DFSr - Depth Hierarchy.py
+p1368
+aV1082 - Connected Components.py
+p1369
+aV1085 - Babel.py
+p1370
+aV1100 - Knight Moves.py
+p1371
+aV1111 - Desrugenstein.py
+p1372
+aV1123 - Route Change.py
+p1373
+aV1128 - Come and Go.py
+p1374
+aV1135 - Ants Colony.py
+p1375
+aV1148 - Countries at War.py
+p1376
+aV1152 - Dark Roads.py
+p1377
+aV1191 - Tree Recovery.py
+p1378
+aV1194 - Pre, In and Post.py
+p1379
+aV1195 - Binary Search Tree.py
+p1380
+aV1200 - BST Operations I.py
+p1381
+aV1201 - BST Operations II.py
+p1382
+aV1205 - Siege of Leningrad.py
+p1383
+aV1207 - The Benefits of Vodka.py
+p1384
+aV1208 - St. Petersburg Dynasties.py
+p1385
+aV1227 - Midnight Cowboy.py
+p1386
+aV1270 - Optical Fiber.py
+p1387
+aV1275 - Light Up.py
+p1388
+aV1298 - Fix the Maze.py
+p1389
+aV1302 - Joining Couples.py
+p1390
+aV1314 - Hedge Mazes.py
+p1391
+aV1317 - I Hate SPAM, But Some People Love It.py
+p1392
+aV1322 - Kids' Wishes.py
+p1393
+aV1328 - Go Easy.py
+p1394
+aV1330 - Uncle Tom\u2019s Inherited Land.py
+p1395
+aV1334 - Electrical Pollution.py
+p1396
+aV1344 - Telecommunication Partners.py
+p1397
+aV1348 - X-Mart.py
+p1398
+aV1362 - My T-Shirt Suits Me.py
+p1399
+aV1384 - Lazy Jumping Frog.py
+p1400
+aV1389 - Traveling Shoemaker Problem.py
+p1401
+aV1391 - Almost Shortest Path.py
+p1402
+aV1394 - Hooligan.py
+p1403
+aV1402 - Will Indiana Jones Get There?.py
+p1404
+aV1409 - Zak Galou.py
+p1405
+aV1413 - Hurry Up!.py
+p1406
+aV1415 - Galou is Back!.py
+p1407
+aV1417 - Justice League.py
+p1408
+aV1423 - Adventure of Super Mario.py
+p1409
+aV1427 - The Scrooge Co Problem.py
+p1410
+aV1442 - Street Deviation.py
+p1411
+aV1447 - Back to the Future.py
+p1412
+aV1454 - The Country of Bicycles.py
+p1413
+aV1461 - Optimal Symmetric Paths.py
+p1414
+aV1462 - Popularity in the Facebook.py
+p1415
+aV1463 - Binary Expression Tree.py
+p1416
+aV1466 - Level Order Tree Traversal.py
+p1417
+aV1469 - Boss.py
+p1418
+aV1476 - Trucks.py
+p1419
+aV1479 - Help your Commander.py
+p1420
+aV1482 - Long Night of Museums.py
+p1421
+aV1489 - Software Engineering.py
+p1422
+aV1490 - Attacking Rooks.py
+p1423
+aV1498 - Inverting Huffman.py
+p1424
+aV1499 - Join Two Kingdoms.py
+p1425
+aV1502 - Corridor Crossing.py
+p1426
+aV1506 - Rabito and Bones.py
+p1427
+aV1525 - Gruntz.py
+p1428
+aV1529 - Max, the Mad.py
+p1429
+aV1539 - Telecom Company.py
+p1430
+aV1550 - Inversion.py
+p1431
+aV1552 - Rescue in Free Fall.py
+p1432
+aV1562 - Choosing the Pairs.py
+p1433
+aV1584 - Espertofone.py
+p1434
+aV1592 - Elias and Golias.py
+p1435
+aV1610 - Dudu Service Maker.py
+p1436
+aV1617 - Safety Path.py
+p1437
+aV1621 - Labyrinth.py
+p1438
+aV1628 - ChessGuess.py
+p1439
+aV1653 - Expressions.py
+p1440
+aV1655 - 106 Miles To Chicago.py
+p1441
+aV1668 - Help The Problem Setter.py
+p1442
+aV1669 - All Discs Considered.py
+p1443
+aV1671 - Code.py
+p1444
+aV1675 - Binary Search Heap Construction.py
+p1445
+aV1677 - The Bottom of a Graph.py
+p1446
+aV1692 - Curo Attack.py
+p1447
+aV1695 - Ordering Trees.py
+p1448
+aV1698 - Brazilian Metro.py
+p1449
+aV1702 - Graph Coloring.py
+p1450
+aV1706 - Magical Candy Bridges.py
+p1451
+aV1711 - Miss Worm.py
+p1452
+aV1713 - Teletransport.py
+p1453
+aV1723 - Phylogenetic Trees Inherited.py
+p1454
+aV1724 - Hike on a Graph.py
+p1455
+aV1733 - Vladimir the Vampire.py
+p1456
+aV1738 - Fiber Network.py
+p1457
+aV1742 - Getting in Trouble.py
+p1458
+aV1747 - Even Distribution.py
+p1459
+aV1749 - Galaxy Collision.py
+p1460
+aV1751 - Intrepid Climber.py
+p1461
+aV1752 - Journey Through The Kingdom.py
+p1462
+aV1757 - Barrel Travel.py
+p1463
+aV1764 - Itinerary of Santa Claus.py
+p1464
+aV1773 - Locked in the Castle.py
+p1465
+aV1774 - Routers.py
+p1466
+aV1778 - Graph Defense.py
+p1467
+aV1782 - Honorable Gift.py
+p1468
+aV1790 - Detecting Bridges.py
+p1469
+aV1792 - Programmed Attack.py
+p1470
+aV1799 - The Rat in a Maze.py
+p1471
+aV1806 - Agent 004.py
+p1472
+aV1813 - Anachronic?.py
+p1473
+aV1821 - Chinese Miai.py
+p1474
+aV1823 - The Last But One Emperor.py
+p1475
+aV1826 - Is The Language Infinite?.py
+p1476
+aV1835 - Campaign's Promise.py
+p1477
+aV1850 - No One's Labyrinth.py
+p1478
+aV1855 - Maester's Map.py
+p1479
+aV1862 - Houses of Westeros.py
+p1480
+aV1883 - Escape From Ayutthaya.py
+p1481
+aV1894 - Phylogeny.py
+p1482
+aV1902 - Association for Consistent Marriages.py
+p1483
+aV1903 - Food Chain.py
+p1484
+aV1907 - Colouring Game Scenarios.py
+p1485
+aV1908 - Multicampus UFFS.py
+p1486
+aV1910 - Help Clotilde.py
+p1487
+aV1915 - Help Chaves.py
+p1488
+aV1923 - Rerisson and The Barbecue.py
+p1489
+aV1925 - Ordan and The Girls.py
+p1490
+aV1928 - Memory Game.py
+p1491
+aV1931 - Even Obsession.py
+p1492
+aV1948 - Compiler.py
+p1493
+aV1950 - Spöhndriger.py
+p1494
+aV1951 - Circuit Validator.py
+p1495
+aV1952 - Knight in 3D Chess.py
+p1496
+aV1954 - Possible Evolutionary Paths.py
+p1497
+aV1955 - See World.py
+p1498
+aV1956 - Acacias.py
+p1499
+aV1972 - Nemesis.py
+p1500
+aV1974 - Into Darkness.py
+p1501
+aV1977 - I Can't be Late.py
+p1502
+aV1979 - Separate Rooms.py
+p1503
+aV1988 - Tourists Circuits.py
+p1504
+aV1993 - He is Lazy.py
+p1505
+aV1994 - Imperialism.py
+p1506
+aV2002 - Rogerio's House.py
+p1507
+aV2032 - Game of Eight.py
+p1508
+aV2038 - Generating Alien DNA.py
+p1509
+aV2039 - Programmers Should Learn Theory of Computation.py
+p1510
+aV2046 - Delivers Steak.py
+p1511
+aV2048 - Houston, We've Got a Problem!.py
+p1512
+aV2056 - The Cube.py
+p1513
+aV2073 - Cairo's Market.py
+p1514
+aV2079 - War Product.py
+p1515
+aV2081 - Dreams, Believe Them!.py
+p1516
+aV2082 - Time Travel.py
+p1517
+aV2085 - Little Red-Cap.py
+p1518
+aV2086 - Bike Land.py
+p1519
+aV2088 - Dengue.py
+p1520
+aV2098 - Treasure Island.py
+p1521
+aV2103 - Harbin is Too Much Money!.py
+p1522
+aV2112 - Scheduling Classrooms.py
+p1523
+aV2117 - Help Me Master.py
+p1524
+aV2118 - What Headquarter?.py
+p1525
+aV2121 - Tourism in Yekaterinburg.py
+p1526
+aV2127 - Vine System.py
+p1527
+aV2128 - Demonstration of Honesty!.py
+p1528
+aV2130 - Worldwide Finals in 2008.py
+p1529
+aV2131 - Mrs. Montagny's Table.py
+p1530
+aV2155 - The Lizard's Icosahedrons.py
+p1531
+aV2173 - Slush Fund.py
+p1532
+aV2182 - Luciano and the Bike.py
+p1533
+aV2184 - Pomekons.py
+p1534
+aV2190 - Optical Network.py
+p1535
+aV2225 - Penalization.py
+p1536
+aV2300 - Transmissão de Energia.py
+p1537
+aV2357 - Violence in Syldavia.py
+p1538
+aV2359 - Allocating Ambulances.py
+p1539
+aV2404 - Reduzindo Detalhes em um Mapa.py
+p1540
+aV2419 - Costa.py
+p1541
+aV2429 - Rodovia.py
+p1542
+aV2440 - Famílias de Troia.py
+p1543
+aV2476 - Noel's Deliveries.py
+p1544
+aV2477 - Distribution Network.py
+p1545
+aV2485 - Bicho da Goiaba.py
+p1546
+aV2490 - Garoto Ixpertinho.py
+p1547
+aV2522 - FNDI's Network.py
+p1548
+aV2528 - Forbidden City.py
+p1549
+aV2529 - Flea Circus.py
+p1550
+aV2545 - Manyfile.py
+p1551
+aV2550 - New Campus.py
+p1552
+aV2558 - Vacuum Cleaner Robot.py
+p1553
+aV2562 - Analógimôn Types.py
+p1554
+aV2566 - Trip to BH.py
+p1555
+aV2585 - Incomplete Dominoes.py
+p1556
+aV2652 - How Many Trees?.py
+p1557
+aV2657 - Sensate.py
+p1558
+aV2666 - Imposto Real.py
+p1559
+aV2676 - City in the Center.py
+p1560
+aV2683 - Design Space.py
+p1561
+aV2688 - Choosing a Place.py
+p1562
+aV2725 - Christmas Village.py
+p1563
+aV2731 - Trip Programming.py
+p1564
+aV2732 - Alice's Kingdom.py
+p1565
+aV2768 - Dabriel's Graph.py
+p1566
+aV2809 - K-th Path.py
+p1567
+aV2810 - Dengue 2.0.py
+p1568
+aV2816 - Dabriel's Palindrome.py
+p1569
+aV2838 - The Infinity Gems.py
+p1570
+aV2854 - Family Tree.py
+p1571
+aV2870 - Map Game.py
+p1572
+aV2883 - Hipótese Policial.py
+p1573
+aV2885 - Juntando Capitais.py
+p1574
+aV2887 - Linhas de Metrô.py
+p1575
+aV2894 - Virus.py
+p1576
+aV2933 - Earth Sled Tour.py
+p1577
+asS'SQL'
+p1578
+(lp1579
+V2602 - Basic Select.sql
+p1580
+aV2603 - Customer Address.sql
+p1581
+aV2604 - Under 10 or Greater Than 100.sql
+p1582
+aV2605 - Executive Representatives.sql
+p1583
+aV2606 - Categories.sql
+p1584
+aV2607 - Providers' City in Alphabetical Order.sql
+p1585
+aV2608 - Higher and Lower Price.sql
+p1586
+aV2609 - Products by Categories.sql
+p1587
+aV2610 - Average Value of Products.sql
+p1588
+aV2611 - Action Movies.sql
+p1589
+aV2612 - The Actors Silva.sql
+p1590
+aV2613 - Cheap Movies.sql
+p1591
+aV2614 - September Rentals.sql
+p1592
+aV2615 - Expanding the Business.sql
+p1593
+aV2616 - No Rental.sql
+p1594
+aV2617 - Provider Ajax SA.sql
+p1595
+aV2618 - Imported Products.sql
+p1596
+aV2619 - Super Luxury.sql
+p1597
+aV2620 - Orders in First Half.sql
+p1598
+aV2621 - Amounts Between 10 and 20.sql
+p1599
+aV2622 - Legal Person.sql
+p1600
+aV2623 - Categories with Various Products.sql
+p1601
+aV2624 - Number of Cities per Customers.sql
+p1602
+aV2625 - CPF Validation.sql
+p1603
+aV2737 - Lawyers.sql
+p1604
+aV2738 - Contest.sql
+p1605
+aV2739 - Payday.sql
+p1606
+aV2740 - League.sql
+p1607
+aV2741 - Students Grades.sql
+p1608
+aV2742 - Richards Multiverse.sql
+p1609
+aV2743 - Number of Characters.sql
+p1610
+aV2744 - Passwords.sql
+p1611
+aV2745 - Taxes.sql
+p1612
+aV2746 - Viruses.sql
+p1613
+asS'Mathematics'
+p1614
+(lp1615
+V1028 - Collectable Cards.py
+p1616
+aV1093 - Vampires.py
+p1617
+aV1161 - Factorial Sum.py
+p1618
+aV1163 - Angry Ducks.py
+p1619
+aV1169 - Grains in a Chess Board.py
+p1620
+aV1170 - Blobs.py
+p1621
+aV1193 - Base Conversion.py
+p1622
+aV1197 - Back to High School Physics.py
+p1623
+aV1198 - Hashmat the Brave Warrior.py
+p1624
+aV1199 - Simple Base Conversion.py
+p1625
+aV1202 - White Nights Festival.py
+p1626
+aV1212 - Primary Arithmetic.py
+p1627
+aV1213 - Ones.py
+p1628
+aV1214 - Above Average.py
+p1629
+aV1219 - Colourful Flowers.py
+p1630
+aV1220 - The Trip.py
+p1631
+aV1221 - Fast Prime Number.py
+p1632
+aV1230 - Integral.py
+p1633
+aV1232 - Rubik Cycle.py
+p1634
+aV1233 - Star.py
+p1635
+aV1240 - Fit or Dont Fit I.py
+p1636
+aV1247 - Coast Guard.py
+p1637
+aV1264 - An Easy Problem!.py
+p1638
+aV1279 - Leap Year or Not Leap Year and \u2026.py
+p1639
+aV1280 - Friends.py
+p1640
+aV1289 - What is the Probability?.py
+p1641
+aV1297 - Environment Protection.py
+p1642
+aV1304 - Average Speed.py
+p1643
+aV1306 - Numbering Roads.py
+p1644
+aV1307 - All You Need Is Love.py
+p1645
+aV1308 - Etruscan Warriors Never Play Chess.py
+p1646
+aV1309 - Monetary Formatting.py
+p1647
+aV1316 - Duty Free Shop.py
+p1648
+aV1323 - Feynman.py
+p1649
+aV1324 - Higgs Boson.py
+p1650
+aV1338 - It-Miha.py
+p1651
+aV1346 - Child Play.py
+p1652
+aV1347 - Kryptonite Mine.py
+p1653
+aV1352 - Square Lottery.py
+p1654
+aV1353 - Super Poker.py
+p1655
+aV1371 - Close the Doors!.py
+p1656
+aV1376 - Brothers.py
+p1657
+aV1380 - Bacilli Population Growth.py
+p1658
+aV1381 - Diophantine Equations.py
+p1659
+aV1390 - Bases.py
+p1660
+aV1392 - Electric Bill.py
+p1661
+aV1393 - Hexagonal Tiles.py
+p1662
+aV1398 - Ocean Deep! Make it Shallow!!.py
+p1663
+aV1399 - Array Transformer.py
+p1664
+aV1400 - Counting Game.py
+p1665
+aV1422 - Bacteria.py
+p1666
+aV1429 - Factorial Again!.py
+p1667
+aV1433 - The Splitting Club.py
+p1668
+aV1434 - Roman Patrollers.py
+p1669
+aV1436 - Brick Game.py
+p1670
+aV1444 - Drakes' Racing.py
+p1671
+aV1450 - Ramesses' Games.py
+p1672
+aV1457 - Oracle of Alexandria.py
+p1673
+aV1465 - Complex, Difficult and Complicated.py
+p1674
+aV1481 - Zing Zhu\u2019s Oyster Farm.py
+p1675
+aV1484 - Type & Add.py
+p1676
+aV1488 - Magic Numbers?.py
+p1677
+aV1492 - Counting Ones.py
+p1678
+aV1501 - How Many Zeros and How Many Digits?.py
+p1679
+aV1505 - Curo Factories.py
+p1680
+aV1512 - Tiles.py
+p1681
+aV1526 - Transporting Snacks.py
+p1682
+aV1531 - Fibonacci Again!.py
+p1683
+aV1537 - Bank Line.py
+p1684
+aV1544 - The Last Non-zero Digit.py
+p1685
+aV1554 - N.1 Continuous.py
+p1686
+aV1555 - Functions.py
+p1687
+aV1563 - The Big Problem.py
+p1688
+aV1567 - (2/3/4)-D Sqr/Rects/Cubes/Boxes?.py
+p1689
+aV1568 - {sum+=i++} to Reach N.py
+p1690
+aV1570 - A Day in Math-Land.py
+p1691
+aV1572 - The Unreal Tournament.py
+p1692
+aV1577 - Constructible Regular Polygons.py
+p1693
+aV1580 - Quid Est Veritas? Est Vir Qui Adest!.py
+p1694
+aV1582 - The Pythagorean Theorem.py
+p1695
+aV1620 - Delaunay Triangulation.py
+p1696
+aV1623 - The Language.py
+p1697
+aV1624 - Promotion.py
+p1698
+aV1625 - Robocopy.py
+p1699
+aV1626 - The Incredible Chapecoense Pizza Contest.py
+p1700
+aV1630 - Stakes.py
+p1701
+aV1634 - Another Lottery.py
+p1702
+aV1635 - Ballot Evaluation.py
+p1703
+aV1641 - Alfredo's Pizza Restaurant.py
+p1704
+aV1644 - Decode the Strings.py
+p1705
+aV1647 - A Game with Marbles.py
+p1706
+aV1650 - Black and White Painting.py
+p1707
+aV1656 - Halloween Treats.py
+p1708
+aV1658 - Dihedral Groups.py
+p1709
+aV1660 - Flavius Josephus Reloaded.py
+p1710
+aV1662 - Homogeneous Squares.py
+p1711
+aV1674 - Fractran.py
+p1712
+aV1688 - Intergalactic Nim.py
+p1713
+aV1694 - Lottery.py
+p1714
+aV1697 - Jaida and Multiply Game.py
+p1715
+aV1703 - Jumping Stones.py
+p1716
+aV1705 - Binary Lover.py
+p1717
+aV1722 - How many Fibs?.py
+p1718
+aV1729 - Average is not Fast Enough!.py
+p1719
+aV1734 - Bound Found.py
+p1720
+aV1735 - Code the Tree.py
+p1721
+aV1736 - Decode the Tree.py
+p1722
+aV1745 - Counting Substhreengs.py
+p1723
+aV1754 - The Time Room.py
+p1724
+aV1756 - Genetic Algorithm.py
+p1725
+aV1760 - Koch Snowflake.py
+p1726
+aV1761 - Christmas Decorations.py
+p1727
+aV1776 - Prom.py
+p1728
+aV1785 - Kaprekar.py
+p1729
+aV1795 - Trinomial Triangle.py
+p1730
+aV1801 - Playing with Numbers.py
+p1731
+aV1805 - Natural Sum.py
+p1732
+aV1807 - Trinomial Triangle, the Revenge.py
+p1733
+aV1812 - A Cluster to Avoid Floods.py
+p1734
+aV1815 - Drunk People?.py
+p1735
+aV1819 - Estimating Production.py
+p1736
+aV1829 - Biggest Number Game.py
+p1737
+aV1830 - Boxes of Chocolates.py
+p1738
+aV1831 - Hard Day At Work.py
+p1739
+aV1839 - The Chamber of Secrets.py
+p1740
+aV1841 - The Goblet of Fire.py
+p1741
+aV1869 - Base 32.py
+p1742
+aV1872 - Palindrome Double.py
+p1743
+aV1904 - Odds and Evens 2.0.py
+p1744
+aV1909 - Help Kiko.py
+p1745
+aV1926 - Marianne and The Twin Cousins.py
+p1746
+aV1946 - Pyramid of Fortune.py
+p1747
+aV1949 - Shift Register.py
+p1748
+aV1967 - The Final Frontier.py
+p1749
+aV1968 - The Undiscovered Country.py
+p1750
+aV1969 - Generations.py
+p1751
+aV1989 - Doing Nothing.py
+p1752
+aV1990 - Equilibrium.py
+p1753
+aV1992 - Gaining Time.py
+p1754
+aV1995 - Game, Set and Match.py
+p1755
+aV1999 - Ball of Reconciliation.py
+p1756
+aV2001 - Bile.py
+p1757
+aV2007 - Fence the Vegetables Fail.py
+p1758
+aV2033 - Interest on Loan.py
+p1759
+aV2034 - Cantor.py
+p1760
+aV2044 - In Debt.py
+p1761
+aV2063 - Hunting Digletts.py
+p1762
+aV2066 - melborP A.py
+p1763
+aV2068 - Setting up a Date.py
+p1764
+aV2069 - Inês Venezuela's Square Table.py
+p1765
+aV2076 - Great Allocation of Commodities.py
+p1766
+aV2084 - Elections.py
+p1767
+aV2096 - Horace and His Primes.py
+p1768
+aV2100 - Xing Tzen Zu\u2019s Movie Theater.py
+p1769
+aV2101 - Day Combinations.py
+p1770
+aV2107 - The Ekaterinburg Pyramids.py
+p1771
+aV2114 - Poker.py
+p1772
+aV2129 - Factorial.py
+p1773
+aV2133 - Dinostratus Numbers.py
+p1774
+aV2135 - Retrieval.py
+p1775
+aV2145 - The Love Life of the Numbers.py
+p1776
+aV2148 - Dice Seat.py
+p1777
+aV2149 - The Uncle Phill Bonati's Sequence.py
+p1778
+aV2154 - Polynomial Derivative.py
+p1779
+aV2170 - Taxes of Project.py
+p1780
+aV2177 - Rio 2016.py
+p1781
+aV2180 - Travel to Mars in Primo Speed.py
+p1782
+aV2204 - Stop The Bomb!.py
+p1783
+aV2218 - The Fearful Evil-Son.py
+p1784
+aV2232 - Pascal's Triangle.py
+p1785
+aV2238 - Dividers.py
+p1786
+aV2291 - Divine Numbers.py
+p1787
+aV2335 - Arquibaldo's Challenge.py
+p1788
+aV2337 - Pro Ability.py
+p1789
+aV2474 - Mocking the System.py
+p1790
+aV2489 - Flecha no Coelho.py
+p1791
+aV2494 - Pens.py
+p1792
+aV2497 - Counting Cycles.py
+p1793
+aV2499 - Internal Triangle.py
+p1794
+aV2505 - Autopotential.py
+p1795
+aV2514 - Lunar Alignment.py
+p1796
+aV2516 - Running.py
+p1797
+aV2584 - Pentagon.py
+p1798
+aV2589 - The Biggest Prime Gap.py
+p1799
+aV2596 - Xenlonguinho.py
+p1800
+aV2597 - Xenlongão.py
+p1801
+aV2598 - Placing Radars.py
+p1802
+aV2660 - Cigarras Periódicas.py
+p1803
+aV2661 - Despojados.py
+p1804
+aV2667 - Jogo de Boca.py
+p1805
+aV2668 - K-ésimo.py
+p1806
+aV2680 - Payroll.py
+p1807
+aV2681 - Monkeys at Hanoi Tower.py
+p1808
+aV2711 - Unlocking a Cell Phone.py
+p1809
+aV2726 - Full Sleigh.py
+p1810
+aV2735 - Nina's Gift.py
+p1811
+aV2767 - Party.py
+p1812
+aV2777 - Dabriel's Subsets.py
+p1813
+aV2801 - Affine Cipher.py
+p1814
+aV2817 - Darlan's Gas Station.py
+p1815
+aV2819 - Letters To Santa.py
+p1816
+aV2820 - Bruna's Digits.py
+p1817
+aV2822 - My First Little Graph.py
+p1818
+aV2839 - The Rangel Stockings.py
+p1819
+aV2859 - Digit Root.py
+p1820
+aV2864 - How Tall is It?.py
+p1821
+aV2873 - Pyramid.py
+p1822
+aV2878 - Cortador de Pizza.py
+p1823
+aV2886 - Kepler.py
+p1824
+aV2890 - Coloring Tetrahedrons.py
+p1825
+aV2892 - Training On The Velodrome.py
+p1826
+asS'Strings'
+p1827
+(lp1828
+V1024 - Encryption.py
+p1829
+aV1120 - Contract Revision.py
+p1830
+aV1141 - Growing Strings.py
+p1831
+aV1168 - LED.py
+p1832
+aV1222 - Short Story Competition.py
+p1833
+aV1234 - Dancing Sentence.py
+p1834
+aV1235 - Inside Out.py
+p1835
+aV1237 - Compare Substring.py
+p1836
+aV1238 - Combiner.py
+p1837
+aV1239 - Bloggo Shortcuts.py
+p1838
+aV1241 - Fit or Dont Fit II.py
+p1839
+aV1243 - How Easy.py
+p1840
+aV1248 - Diet Plan.py
+p1841
+aV1249 - Rot13.py
+p1842
+aV1253 - Caesar Cipher.py
+p1843
+aV1254 - Tag Replacement.py
+p1844
+aV1255 - Letter Frequency.py
+p1845
+aV1257 - Array Hash.py
+p1846
+aV1262 - Multiple Reading.py
+p1847
+aV1263 - Alliteration.py
+p1848
+aV1272 - Hidden Message.py
+p1849
+aV1273 - Justifier.py
+p1850
+aV1276 - Letter Range.py
+p1851
+aV1277 - Short Attendance.py
+p1852
+aV1278 - Justifier II.py
+p1853
+aV1284 - Cellphone Typing.py
+p1854
+aV1287 - Friendly Int Parser.py
+p1855
+aV1305 - Cut Off Rounder.py
+p1856
+aV1313 - Diccionario Portuñol.py
+p1857
+aV1332 - One-Two-Three.py
+p1858
+aV1335 - File Retrieval.py
+p1859
+aV1341 - Kids in a Grid.py
+p1860
+aV1355 - Compressor.py
+p1861
+aV1364 - Emoticons :-).py
+p1862
+aV1367 - Help!.py
+p1863
+aV1373 - DNA Subsequences.py
+p1864
+aV1377 - File Recover.py
+p1865
+aV1385 - Report Recovery.py
+p1866
+aV1386 - Ambiguous Codes.py
+p1867
+aV1406 - Jukebox.py
+p1868
+aV1448 - Chinese Whispers.py
+p1869
+aV1456 - Brainfuck.py
+p1870
+aV1458 - SMS Championship.py
+p1871
+aV1491 - Blogger Language.py
+p1872
+aV1503 - Largest Common Palindrome Must You Find.py
+p1873
+aV1516 - Image.py
+p1874
+aV1519 - Abbreviations.py
+p1875
+aV1530 - How Many Substrings?.py
+p1876
+aV1551 - Complete Sentence.py
+p1877
+aV1556 - Removing Letters.py
+p1878
+aV1581 - International Chat.py
+p1879
+aV1586 - Tug of War.py
+p1880
+aV1607 - Advancing Letters.py
+p1881
+aV1629 - UnzipFACE.py
+p1882
+aV1632 - Variations.py
+p1883
+aV1664 - Bullshit Bingo.py
+p1884
+aV1667 - HTML.py
+p1885
+aV1686 - Palindromic Sequence.py
+p1886
+aV1726 - Friends.py
+p1887
+aV1737 - Etaoin Shrdlu.py
+p1888
+aV1768 - Christmas Tree.py
+p1889
+aV1781 - Guga and the String.py
+p1890
+aV1803 - Matring.py
+p1891
+aV1842 - The Order of the Phoenix.py
+p1892
+aV1846 - Number to Name.py
+p1893
+aV1853 - Daenerys' Game of Trust.py
+p1894
+aV1859 - Frozen Archaeology.py
+p1895
+aV1868 - Square Spiral.py
+p1896
+aV1871 - Zero means Zero.py
+p1897
+aV1873 - Rock-paper-scissors-lizard-Spock.py
+p1898
+aV1898 - Kickback Sum.py
+p1899
+aV1941 - Palindrome.py
+p1900
+aV2000 - Adeildo of Odonto.py
+p1901
+aV2017 - Six Strings.py
+p1902
+aV2023 - The Last Good Kid.py
+p1903
+aV2025 - Joulupukki.py
+p1904
+aV2035 - Designing T-Shirts.py
+p1905
+aV2049 - Numbers of Ahmoc.py
+p1906
+aV2055 - Lisp is Better than Java, C and C++.py
+p1907
+aV2062 - OBI URI.py
+p1908
+aV2087 - Good And Bad Sets.py
+p1909
+aV2093 - Escaping from Escaping.py
+p1910
+aV2097 - Name to Number.py
+p1911
+aV2108 - Counting Characters.py
+p1912
+aV2132 - Not One More Canadian Game!.py
+p1913
+aV2137 - The Library of Mr. Severino.py
+p1914
+aV2150 - Alien Vowels.py
+p1915
+aV2153 - Sanduicheiche.py
+p1916
+aV2157 - Mirror Sequence.py
+p1917
+aV2174 - Pomekon Collection.py
+p1918
+aV2242 - Huaauhahhuahau.py
+p1919
+aV2253 - Passwords Validator.py
+p1920
+aV2292 - LED Panel.py
+p1921
+aV2314 - Indenter.py
+p1922
+aV2336 - ABC.py
+p1923
+aV2356 - Bacteria I.py
+p1924
+aV2358 - Bacteria II.py
+p1925
+aV2484 - Abracadabra.py
+p1926
+aV2509 - Latex Editor.py
+p1927
+aV2535 - Adoption Fair.py
+p1928
+aV2549 - Usernames.py
+p1929
+aV2557 - R+L=J.py
+p1930
+aV2583 - Chirrin Chirrion.py
+p1931
+aV2587 - Jetiqui.py
+p1932
+aV2588 - Game of Palindromes.py
+p1933
+aV2591 - HameKameKa.py
+p1934
+aV2651 - Upset Link.py
+p1935
+aV2669 - Laboratório de Biotecnologia.py
+p1936
+aV2678 - Voice Dialing.py
+p1937
+aV2691 - The Mathematician.py
+p1938
+aV2692 - Zoeiro Keyboard.py
+p1939
+aV2694 - Problem with the Calculator.py
+p1940
+aV2697 - Complete Naebbirac\u2019s Sequence.py
+p1941
+aV2714 - My Temporary Password.py
+p1942
+aV2722 - Evergreen Trick.py
+p1943
+aV2728 - Grace Hopper, Grandma of Cobol.py
+p1944
+aV2815 - Stutterer Digitizer.py
+p1945
+aV2824 - Pudim.py
+p1946
+aV2825 - L as in Atreus!?.py
+p1947
+aV2866 - Cryptotext.py
+p1948
+aV2880 - Enigma.py
+p1949
+as.
