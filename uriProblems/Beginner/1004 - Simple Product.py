@@ -1,2 +1,3 @@
-info = [int(x) for x in input().split()]
-print(info)
+A = int(input())
+B = int(input())
+print('PROD = {}'.format(A * B))
