@@ -1,4 +1,4 @@
-from string import ascii_lowercase, ascii_uppercase
+from string import ascii_lowercase
 
 for _ in range(int(input())):
     curr_line = input()
