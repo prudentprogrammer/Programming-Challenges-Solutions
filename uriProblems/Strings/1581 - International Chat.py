@@ -1,2 +1,6 @@
-info = [int(x) for x in input().split()]
-print(info)
+for _ in range(int(input())):
+  languages = set([input() for _ in range(int(input()))])
+  if len(languages) == 1:
+    print(languages.pop())
+  else:
+    print('ingles')

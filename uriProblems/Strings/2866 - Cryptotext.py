@@ -1,2 +1,2 @@
-info = [int(x) for x in input().split()]
-print(info)
+for _ in range(int(input())):
+  print(''.join([x for x in input() if x.islower()][::-1]))
