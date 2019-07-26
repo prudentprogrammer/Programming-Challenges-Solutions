@@ -14,14 +14,12 @@ def get_count(trace, cc):
       temp = 0
   return count
 
-for trace, cc in [('RWWRRR', 3), ('RWWRRRR', 3), ('WWWWW', 5), ('RRRRRRRRRR', 4), ('RWRRWWRWRWRRRWWRRRRWRRWRRWRRRRRRRRRWRWRWRRRRWRRRRR', 4)]:
-  print(get_count(trace, cc))
+# for trace, cc in [('RWWRRR', 3), ('RWWRRRR', 3), ('WWWWW', 5), ('RRRRRRRRRR', 4), ('RWRRWWRWRWRRRWWRRRRWRRWRRWRRRRRRRRRWRWRWRRRRWRRRRR', 4)]:
+#   print(get_count(trace, cc))
 
-'''
 while True:
   try:
     trace, cc = input(), int(input())
     print(get_count(trace, cc))
   except EOFError:
     break
-'''
